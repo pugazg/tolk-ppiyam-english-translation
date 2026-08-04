@@ -34,10 +34,11 @@ Each completed physical PDF page has its own Markdown file. The table below grou
 | 85–94 | 58–67 | Chapter 6 — உருபியல் / Changes with Case Markers | verified, complete | [`chapter-06-case-marker-changes/`](part-01-phonology/chapter-06-case-marker-changes/) |
 | 95–118 | 68–91 | Chapter 7 — உயிர் மயங்கியல் / Changes with Vowels | verified, complete | [`chapter-07-vowel-changes/`](part-01-phonology/chapter-07-vowel-changes/) |
 | 119–146 | 92–119 | Chapter 8 — புள்ளி மயங்கியல் / Changes with Consonants | verified, complete | [`chapter-08-consonant-changes/`](part-01-phonology/chapter-08-consonant-changes/) |
-| 147–316 | 120 onward | Remaining Part I and Part II | not-started | — |
+| 147–167 | 120–140 | Chapter 9 — குற்றியலுகரப் புணரியல் / Changes with the Shorter `|u|` | verified, complete | [`chapter-09-shorter-u-changes/`](part-01-phonology/chapter-09-shorter-u-changes/) |
+| 168–316 | 141 onward | Part I post-chapter sections and Part II | not-started | — |
 
-**Current verified range:** PDF pages **1–146**.
+**Current verified range:** PDF pages **1–167**.
 
-- Chapter 7 is complete through sūtra **296**, with notes **21–29**.
-- Chapter 8 is complete through sūtra **406**, with notes **30–36**. PDF page 146 is an intentionally retained blank archival page.
-- There are **10 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+- Chapter 9 is complete through sūtra **483**, with notes **37–41**.
+- All **nine chapters of Part I — Phonology are complete**.
+- There are **9 chapters remaining**, all in Part II. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
