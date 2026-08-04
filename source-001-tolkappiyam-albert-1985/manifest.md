@@ -9,13 +9,13 @@ Total physical PDF pages: **316**
 - `draft` — transcription exists but requires visual rechecking
 - `not-started` — no page file yet
 
-Each completed physical PDF page has its own Markdown file. The table below groups continuous verified ranges for readability.
+Each physical PDF page has its own Markdown file. The table below groups continuous verified ranges for readability.
 
 ## Progress
 
 | PDF pages | Printed pages | Section | Status | Location |
 |:---:|:---:|---|---|---|
-| 1–27 | front matter | Cover through transliteration tables | verified | [`front-matter/`](front-matter/) |
+| 1–27 | front matter | Cover through transliteration tables | verified, complete | [`front-matter/`](front-matter/) |
 | 28 | — | Part I — Phonology title page | verified | [`part-01-phonology/page-028.md`](part-01-phonology/page-028.md) |
 | 29–167 | 1–140 | Part I Chapters 1–9 | verified, complete | [`part-01-phonology/`](part-01-phonology/) |
 | 168–170 | 141–143 | Part I Research Topics | verified, complete | [`research-topics/`](part-01-phonology/research-topics/) |
@@ -31,14 +31,15 @@ Each completed physical PDF page has its own Markdown file. The table below grou
 | 253–266 | 226–239 | Part II Chapter 7 — இடையியல் / Bound Morphemes | verified, complete | [`chapter-07-bound-morphemes/`](part-02-morphology/chapter-07-bound-morphemes/) |
 | 267–288 | 240–261 | Part II Chapter 8 — உரியியல் / Free Morphemes | verified, complete | [`chapter-08-free-morphemes/`](part-02-morphology/chapter-08-free-morphemes/) |
 | 289–308 | 262–281 | Part II Chapter 9 — எச்சவியல் / Concepts of Extended Structures | verified, complete | [`chapter-09-concepts-of-extended-structures/`](part-02-morphology/chapter-09-concepts-of-extended-structures/) |
-| 309–310 | 282–283 | Part II Research Topics | not-started | — |
-| 311–312 | 284–285 | Part II Index | not-started | — |
-| 313–316 | 286 onward | Reference to Terms and closing pages | not-started | — |
+| 309–310 | 282–283 | Part II Research Topics | verified, complete | [`research-topics/`](part-02-morphology/research-topics/) |
+| 311–312 | 284–285 | Part II Index | verified, complete | [`index/`](part-02-morphology/index/) |
+| 313–314 | 286–287 | Reference to Terms | verified, complete | [`reference-to-terms/`](part-02-morphology/reference-to-terms/) |
+| 315 | 288 | Errata | verified, complete | [`back-matter/page-315.md`](back-matter/page-315.md) |
+| 316 | — | Institute publications list | verified, complete | [`back-matter/page-316.md`](back-matter/page-316.md) |
 
-**Current verified range:** PDF pages **1–308**.
+**Current verified range:** PDF pages **1–316**.
 
-- Part I is complete, including Research Topics and Index.
-- Part II Chapters 1–9 are complete.
-- Chapter 8 ends with displayed sūtra **390** and note **79**; PDF page 288 is an intentionally retained blank archival page.
-- Chapter 9 ends with displayed sūtra **457** and notes **80–82**.
-- There are **0 chapters remaining**. The next unread page is PDF page **309**, beginning Part II Research Topics.
+- Part I is complete, including all chapters, Research Topics and Index.
+- Part II is complete, including all chapters, Research Topics, Index and Reference to Terms.
+- The Errata and final institute-publications page are retained in `back-matter/`.
+- There are **0 pages remaining**. The page-by-page transcription of the source volume is complete.
