@@ -1,15 +1,13 @@
-# Remaining Chapter Page Ranges after Part I
+# Remaining Chapter Page Ranges after Part II Chapter 2
 
-Part I Chapter 9 ends at **PDF page 167 / printed page 140**. The following ranges use physical PDF pages as the primary archival reference. Printed-page ranges are included separately.
+Part II Chapter 2 ends at **PDF page 202 / printed page 175**. The following ranges use physical PDF pages as the primary archival reference. Printed-page ranges are included separately.
 
-The Part II chapter openings were checked against the scanned title pages. Each end page is the page immediately before the next chapter or post-chapter section begins.
+The chapter openings were checked against the scanned title pages. Each end page is the page immediately before the next chapter or post-chapter section begins.
 
 ## Part II — Morphology
 
 | Chapter | Tamil title | English title | Physical PDF pages | Printed pages |
 |---:|---|---|:---:|:---:|
-| 1 | கிளவியாக்கம் | Formation and distribution of Morphemes | 177–194 | 150–167 |
-| 2 | வேற்றுமையியல் | A Chapter on the Cases | 195–202 | 168–175 |
 | 3 | வேற்றுமை மயங்கியல் | A Chapter on the Case-marker substitution | 203–212 | 176–185 |
 | 4 | விளி மரபு | Conventions of the Vocative | 213–222 | 186–195 |
 | 5 | பெயரியல் | A Chapter on the Nouns | 223–236 | 196–209 |
@@ -21,7 +19,7 @@ The Part II chapter openings were checked against the scanned title pages. Each 
 ## Count
 
 - Remaining Part I chapters: **0**
-- Remaining Part II chapters: **9**
-- Total remaining chapters: **9**
+- Remaining Part II chapters: **7**
+- Total remaining chapters: **7**
 
-PDF pages **168–176** contain Part I research topics/index material and the Part II title/front page; these are not counted as chapters. Post-chapter research topics, indexes and reference-to-terms sections are also not counted as chapters.
+Post-chapter Research Topics, Index and Reference to Terms sections are not counted as chapters.

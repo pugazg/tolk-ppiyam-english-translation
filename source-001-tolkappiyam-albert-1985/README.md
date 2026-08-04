@@ -25,6 +25,8 @@
 - Front matter: `front-matter/page-NNN.md`
 - Part I title or non-chapter pages: `part-01-phonology/page-NNN.md`
 - Part I chapter pages: `part-01-phonology/chapter-NN-short-title/page-NNN.md`
+- Part I Research Topics: `part-01-phonology/research-topics/page-NNN.md`
+- Part I Index: `part-01-phonology/index/page-NNN.md`
 - Part II title or non-chapter pages: `part-02-morphology/page-NNN.md`
 - Part II chapter pages: `part-02-morphology/chapter-NN-short-title/page-NNN.md`
 - Maintained contents, index and chapter navigation: `contents-index-chapters/`
@@ -33,20 +35,12 @@ See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](c
 
 ## Progress
 
-PDF pages **1–167** are transcribed and verified.
+PDF pages **1–202** are transcribed and verified.
 
-Completed in Part I:
+Completed:
 
-- Chapter 1 — **நூன் மரபு / Conventions Of Grammar**, PDF pages 29–38
-- Chapter 2 — **மொழி மரபு / Conventions of Usage**, PDF pages 39–50
-- Chapter 3 — **பிறப்பியல் / A Chapter on the Production of Sounds**, PDF pages 51–58
-- Chapter 4 — **புணரியல் / A Chapter on the Grammar of Morphophonemic Change**, PDF pages 59–70
-- Chapter 5 — **தொகை மரபு / Conventions of Morphophonemic Grammar and Usage**, PDF pages 71–84
-- Chapter 6 — **உருபியல் / A Chapter on the Changes in Usage with Case Markers**, PDF pages 85–94
-- Chapter 7 — **உயிர் மயங்கியல் / A Chapter on the Changes in Usage with Vowels**, PDF pages 95–118
-- Chapter 8 — **புள்ளி மயங்கியல் / A Chapter on the Changes in Usage with Consonants**, PDF pages 119–146
-- Chapter 9 — **குற்றியலுகரப் புணரியல் / A Chapter on the Changes in Usage with the Shorter `|u|`**, PDF pages 147–167
+- **Part I — Phonology:** all nine chapters, Research Topics and Index
+- **Part II Chapter 1 — கிளவியாக்கம் / Formation and Distribution of Morphemes:** PDF pages 177–194, displayed sūtras 1–62 and notes 1–6
+- **Part II Chapter 2 — வேற்றுமையியல் / A Chapter on the Cases:** PDF pages 195–202, displayed sūtras 63–79 and notes 7–11; page 202 is a blank archival page
 
-Part I — Phonology is complete through sūtra **483**, including notes **37–41**.
-
-There are **9 chapters remaining**, all in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+There are **7 chapters remaining**, all in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
