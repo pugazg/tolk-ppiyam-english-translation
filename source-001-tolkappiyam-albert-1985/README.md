@@ -35,7 +35,7 @@ See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](c
 
 ## Progress
 
-PDF pages **1–266** are transcribed and verified.
+PDF pages **1–308** are transcribed and verified.
 
 Completed:
 
@@ -47,5 +47,7 @@ Completed:
 - **Part II Chapter 5 — பெயரியல் / A Chapter on the Nouns:** PDF pages 223–236, displayed sūtras 152–194 and notes 29–52
 - **Part II Chapter 6 — வினையியல் / A Chapter on the Verbs:** PDF pages 237–252, displayed sūtras 195–243 and notes 53–75
 - **Part II Chapter 7 — இடையியல் / A Chapter on the Bound Morphemes:** PDF pages 253–266, displayed sūtras 244–291 and notes 76–78; page 266 is a blank archival page
+- **Part II Chapter 8 — உரியியல் / A Chapter on the Free Morphemes:** PDF pages 267–288, displayed sūtras 292–390 and note 79; page 288 is a blank archival page
+- **Part II Chapter 9 — எச்சவியல் / A Chapter on the Concepts of Extended Structures:** PDF pages 289–308, displayed sūtras 391–457 and notes 80–82
 
-There are **2 chapters remaining**, both in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+There are **0 chapters remaining**. All eighteen chapters are complete. The next unread page is PDF page **309**, beginning Part II Research Topics.
