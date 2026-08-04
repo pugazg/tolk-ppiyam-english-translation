@@ -1,14 +1,8 @@
-# Remaining Chapter Page Ranges after Chapter 8
+# Remaining Chapter Page Ranges after Part I
 
-Chapter 8 ends at **PDF page 146 / printed page 119**. The following ranges use physical PDF pages as the primary archival reference. Printed-page ranges are included separately.
+Part I Chapter 9 ends at **PDF page 167 / printed page 140**. The following ranges use physical PDF pages as the primary archival reference. Printed-page ranges are included separately.
 
-The chapter openings were checked against the scanned title pages. Each end page is the page immediately before the next chapter or post-chapter section begins.
-
-## Part I — Phonology
-
-| Chapter | Tamil title | English title | Physical PDF pages | Printed pages |
-|---:|---|---|:---:|:---:|
-| 9 | குற்றியலுகரப் புணரியல் | A Chapter on the Changes in Usage with the Shorter `|u|` | 147–167 | 120–140 |
+The Part II chapter openings were checked against the scanned title pages. Each end page is the page immediately before the next chapter or post-chapter section begins.
 
 ## Part II — Morphology
 
@@ -26,8 +20,8 @@ The chapter openings were checked against the scanned title pages. Each end page
 
 ## Count
 
-- Remaining Part I chapters: **1**
+- Remaining Part I chapters: **0**
 - Remaining Part II chapters: **9**
-- Total remaining chapters: **10**
+- Total remaining chapters: **9**
 
-Post-chapter research topics, indexes and reference-to-terms sections are not counted as chapters.
+PDF pages **168–176** contain Part I research topics/index material and the Part II title/front page; these are not counted as chapters. Post-chapter research topics, indexes and reference-to-terms sections are also not counted as chapters.
