@@ -15,10 +15,17 @@ A page-by-page archival transcription of **Dr. D. Albert's _Tolkāppiyam: Phonol
 source-001-tolkappiyam-albert-1985/
 ├── README.md
 ├── manifest.md
+├── contents-index-chapters/
+│   ├── README.md
+│   ├── contents.md
+│   └── chapter-index.md
 ├── front-matter/
-│   └── page-001.md ...
+│   └── page-001.md ... page-027.md
 ├── part-01-phonology/
-│   └── ...
+│   ├── page-028.md
+│   └── chapter-01-conventions-of-grammar/
+│       ├── page-029.md
+│       └── page-030.md
 └── part-02-morphology/
     └── ...
 ```
@@ -27,4 +34,6 @@ Each page file records the PDF page number, printed page label where present, la
 
 ## Progress
 
-The transcription is being added in verified page batches. See [`source-001-tolkappiyam-albert-1985/manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for page-level status.
+PDF pages **1–30** are transcribed and verified. The front matter is complete through the transliteration tables, and Part I — Phonology has begun with Chapter 1, **நூன் மரபு / Conventions Of Grammar**, sūtras 1–7.
+
+See [`source-001-tolkappiyam-albert-1985/manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for page-level status and [`source-001-tolkappiyam-albert-1985/contents-index-chapters/`](source-001-tolkappiyam-albert-1985/contents-index-chapters/) for maintained contents and chapter navigation.
