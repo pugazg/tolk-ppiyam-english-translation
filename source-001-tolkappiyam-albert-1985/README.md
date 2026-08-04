@@ -35,12 +35,15 @@ See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](c
 
 ## Progress
 
-PDF pages **1–202** are transcribed and verified.
+PDF pages **1–236** are transcribed and verified.
 
 Completed:
 
 - **Part I — Phonology:** all nine chapters, Research Topics and Index
 - **Part II Chapter 1 — கிளவியாக்கம் / Formation and Distribution of Morphemes:** PDF pages 177–194, displayed sūtras 1–62 and notes 1–6
-- **Part II Chapter 2 — வேற்றுமையியல் / A Chapter on the Cases:** PDF pages 195–202, displayed sūtras 63–79 and notes 7–11; page 202 is a blank archival page
+- **Part II Chapter 2 — வேற்றுமையியல் / A Chapter on the Cases:** PDF pages 195–202, displayed sūtras 63–79 and notes 7–11
+- **Part II Chapter 3 — வேற்றுமை மயங்கியல் / A Chapter on the Case-marker Substitution:** PDF pages 203–212, displayed sūtras 80–114 and notes 12–13
+- **Part II Chapter 4 — விளி மரபு / Conventions of the Vocative:** PDF pages 213–222, displayed sūtras 115–151 and notes 14–28; page 222 is a blank archival page
+- **Part II Chapter 5 — பெயரியல் / A Chapter on the Nouns:** PDF pages 223–236, displayed sūtras 152–194 and notes 29–52
 
-There are **7 chapters remaining**, all in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+There are **4 chapters remaining**, all in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
