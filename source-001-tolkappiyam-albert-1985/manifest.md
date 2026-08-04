@@ -24,11 +24,16 @@ Each completed physical PDF page has its own Markdown file. The table below grou
 | 176 | 149 | Part II — Morphology title page | verified | [`part-02-morphology/page-176.md`](part-02-morphology/page-176.md) |
 | 177–194 | 150–167 | Part II Chapter 1 — கிளவியாக்கம் / Formation and Distribution of Morphemes | verified, complete | [`chapter-01-formation-and-distribution-of-morphemes/`](part-02-morphology/chapter-01-formation-and-distribution-of-morphemes/) |
 | 195–202 | 168–175 | Part II Chapter 2 — வேற்றுமையியல் / Cases | verified, complete | [`chapter-02-cases/`](part-02-morphology/chapter-02-cases/) |
-| 203–316 | 176 onward | Remaining Part II chapters and post-chapter sections | not-started | — |
+| 203–212 | 176–185 | Part II Chapter 3 — வேற்றுமை மயங்கியல் / Case-marker Substitution | verified, complete | [`chapter-03-case-marker-substitution/`](part-02-morphology/chapter-03-case-marker-substitution/) |
+| 213–222 | 186–195 | Part II Chapter 4 — விளி மரபு / Conventions of the Vocative | verified, complete | [`chapter-04-conventions-of-the-vocative/`](part-02-morphology/chapter-04-conventions-of-the-vocative/) |
+| 223–236 | 196–209 | Part II Chapter 5 — பெயரியல் / Nouns | verified, complete | [`chapter-05-nouns/`](part-02-morphology/chapter-05-nouns/) |
+| 237–316 | 210 onward | Remaining Part II chapters and post-chapter sections | not-started | — |
 
-**Current verified range:** PDF pages **1–202**.
+**Current verified range:** PDF pages **1–236**.
 
 - Part I is complete, including Research Topics and Index.
-- Part II Chapter 1 is complete through displayed sūtra **62**, with notes **1–6**.
-- Part II Chapter 2 is complete through displayed sūtra **79**, with notes **7–11**. PDF page 202 is an intentionally retained blank archival page.
-- There are **7 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+- Part II Chapters 1–5 are complete.
+- Chapter 3 ends with displayed sūtra **114** and notes **12–13**.
+- Chapter 4 ends with displayed sūtra **151** and notes **14–28**; PDF page 222 is an intentionally retained blank archival page.
+- Chapter 5 ends with displayed sūtra **194** and notes **29–52**. The Tamil scan on PDF page 223 prints **167** where the sequence indicates **157**; this is preserved and explicitly noted.
+- There are **4 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
