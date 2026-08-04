@@ -44,6 +44,26 @@ Chapter boundaries are recorded from the scanned opening pages. Physical PDF pag
 - Folder: [`part-01-phonology/chapter-04-grammar-of-morphophonemic-change/`](../part-01-phonology/chapter-04-grammar-of-morphophonemic-change/)
 - Status: complete
 
+### Chapter 5
+
+- Tamil title: **தொகை மரபு**
+- English title: **Conventions of Morphophonemic Grammar and Usage**
+- Physical PDF range: **71–84**
+- Printed range: **44–57**
+- Contents: sūtras 144–173 and notes 15a–18
+- Folder: [`part-01-phonology/chapter-05-morphophonemic-grammar-and-usage/`](../part-01-phonology/chapter-05-morphophonemic-grammar-and-usage/)
+- Status: complete
+
+### Chapter 6
+
+- Tamil title: **உருபியல்**
+- English title: **A Chapter on the Changes in Usage with Case Markers**
+- Physical PDF range: **85–94**
+- Printed range: **58–67**
+- Contents: sūtras 174–203, notes 19–20 and one blank archival page
+- Folder: [`part-01-phonology/chapter-06-case-marker-changes/`](../part-01-phonology/chapter-06-case-marker-changes/)
+- Status: complete
+
 ## Remaining chapters
 
-There are **14 chapters remaining**: five in Part I and nine in Part II. Their verified physical and printed page ranges are maintained in [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md).
+There are **12 chapters remaining**: three in Part I and nine in Part II. Their verified physical and printed page ranges are maintained in [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md).
