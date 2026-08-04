@@ -8,7 +8,7 @@ All nine chapters are complete. Part I Research Topics occupy PDF pages **168–
 
 ## Part II — Morphology
 
-All nine chapters are complete. Part II post-chapter sections occupy PDF pages **309–316**.
+All nine chapters are complete. Part II Research Topics, Index and Reference to Terms occupy PDF pages **309–314**, followed by Errata and a publications list on PDF pages **315–316**.
 
 | Chapter | Tamil title | English title | Physical PDF pages | Printed pages | Contents | Status |
 |---:|---|---|:---:|:---:|---|---|
@@ -22,6 +22,6 @@ All nine chapters are complete. Part II post-chapter sections occupy PDF pages *
 | 8 | உரியியல் | A Chapter on the Free Morphemes | 267–288 | 240–261 | displayed sūtras 292–390; note 79; blank archival page | complete |
 | 9 | எச்சவியல் | A Chapter on the Concepts of Extended Structures | 289–308 | 262–281 | displayed sūtras 391–457; notes 80–82 | complete |
 
-## Remaining chapters
+## Completion
 
-There are **0 chapters remaining**. All eighteen chapters across Part I and Part II are complete. Post-chapter Research Topics, Index and Reference to Terms are tracked separately and begin at PDF page **309**.
+There are **0 chapters and 0 physical PDF pages remaining**. All eighteen chapters and every page of the 316-page source volume are transcribed.
