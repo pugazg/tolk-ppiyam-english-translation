@@ -19,7 +19,7 @@ All nine chapters, Research Topics and Index are complete through PDF page 175.
 
 ## Part II — Morphology
 
-All nine chapters are complete through PDF page 308.
+All nine chapters and all post-chapter sections are complete through PDF page 316.
 
 | Printed no. | Printed title | Printed page | Transcription status |
 |---:|---|:---:|---|
@@ -32,10 +32,15 @@ All nine chapters are complete through PDF page 308.
 | 7 | A Chapter on the Bound Morphemes | 227 | [Complete: PDF pages 253–266](../part-02-morphology/chapter-07-bound-morphemes/page-253.md) |
 | 8 | A Chapter on the Free Morphemes | 241 | [Complete: PDF pages 267–288](../part-02-morphology/chapter-08-free-morphemes/page-267.md) |
 | 9 | A Chapter on the Concepts of Extended Structures | 263 | [Complete: PDF pages 289–308](../part-02-morphology/chapter-09-concepts-of-extended-structures/page-289.md) |
-| 10 | Research Topics | 282 | Not started — PDF pages 309–310 |
-| 11 | Index | 284 | Not started — PDF pages 311–312 |
-| 12 | Reference to Terms | 286 | Not started — PDF pages 313–316 |
+| 10 | Research Topics | 282 | [Complete: PDF pages 309–310](../part-02-morphology/research-topics/page-309.md) |
+| 11 | Index | 284 | [Complete: PDF pages 311–312](../part-02-morphology/index/page-311.md) |
+| 12 | Reference to Terms | 286 | [Complete: PDF pages 313–314](../part-02-morphology/reference-to-terms/page-313.md) |
+
+## Back matter
+
+- [Errata — PDF page 315](../back-matter/page-315.md)
+- [International Institute of Tamil Studies publications — PDF page 316](../back-matter/page-316.md)
 
 > The sequence `7, 8, 9` following Part I chapter 9 is retained exactly as printed.
 
-There are no remaining chapters. The next unread section is Part II Research Topics, beginning at PDF page 309. See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md).
+The complete 316-page source volume has been transcribed. See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the final completion record.
