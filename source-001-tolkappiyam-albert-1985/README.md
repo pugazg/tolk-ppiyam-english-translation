@@ -33,7 +33,7 @@ See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](c
 
 ## Progress
 
-PDF pages **1–146** are transcribed and verified.
+PDF pages **1–167** are transcribed and verified.
 
 Completed in Part I:
 
@@ -45,5 +45,8 @@ Completed in Part I:
 - Chapter 6 — **உருபியல் / A Chapter on the Changes in Usage with Case Markers**, PDF pages 85–94
 - Chapter 7 — **உயிர் மயங்கியல் / A Chapter on the Changes in Usage with Vowels**, PDF pages 95–118
 - Chapter 8 — **புள்ளி மயங்கியல் / A Chapter on the Changes in Usage with Consonants**, PDF pages 119–146
+- Chapter 9 — **குற்றியலுகரப் புணரியல் / A Chapter on the Changes in Usage with the Shorter `|u|`**, PDF pages 147–167
 
-There are **10 chapters remaining**: Part I Chapter 9 and Part II Chapters 1–9. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+Part I — Phonology is complete through sūtra **483**, including notes **37–41**.
+
+There are **9 chapters remaining**, all in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
