@@ -28,12 +28,12 @@ It is said that it may appear in all these ways following or preceding words, de
 
 ## `| maṉ |` — 247
 
-The morpheme `| maṉ |` appears to express nostalgia for what is lost, wonder at a complete change and irony at what is implied.
+The morpheme `| maṉ |` appears to express nostolgia for what is lost, wonder at a complete change and irony at what is implied.
 
 ## `| til |` — 248
 
-The morpheme `| til |` appears to introduce the three expressions of a great desire, of time and implied meaning.
+The morphsme `| til |` appears to introduce the three expressions of a great desire, of time and implied meaning.
 
 ## `| koṉ |` — 249
 
-The morpheme `| koṉ |` appears to introduce the four implied expressions of fear, uselessness, time and greatness.
+The morpheme `| koṉ |` appears to introduce the four implied expressions of fea, uselessness, time and greatness.
