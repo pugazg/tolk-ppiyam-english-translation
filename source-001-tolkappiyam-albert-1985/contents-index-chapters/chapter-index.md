@@ -8,6 +8,8 @@ All nine chapters are complete. Part I Research Topics occupy PDF pages **168–
 
 ## Part II — Morphology
 
+All nine chapters are complete. Part II post-chapter sections occupy PDF pages **309–316**.
+
 | Chapter | Tamil title | English title | Physical PDF pages | Printed pages | Contents | Status |
 |---:|---|---|:---:|:---:|---|---|
 | 1 | கிளவியாக்கம் | Formation and Distribution of Morphemes | 177–194 | 150–167 | displayed sūtras 1–62; notes 1–6 | complete |
@@ -17,9 +19,9 @@ All nine chapters are complete. Part I Research Topics occupy PDF pages **168–
 | 5 | பெயரியல் | A Chapter on the Nouns | 223–236 | 196–209 | displayed sūtras 152–194; notes 29–52; numbering irregularity retained on PDF page 223 | complete |
 | 6 | வினையியல் | A Chapter on the Verbs | 237–252 | 210–225 | displayed sūtras 195–243; notes 53–75 | complete |
 | 7 | இடையியல் | A Chapter on the Bound Morphemes | 253–266 | 226–239 | displayed sūtras 244–291; notes 76–78; blank archival page | complete |
-| 8 | உரியியல் | A Chapter on the Free Morphemes | 267–288 | 240–261 | — | not started |
-| 9 | எச்சவியல் | A Chapter on the Concepts of Extended Structures | 289–308 | 262–281 | — | not started |
+| 8 | உரியியல் | A Chapter on the Free Morphemes | 267–288 | 240–261 | displayed sūtras 292–390; note 79; blank archival page | complete |
+| 9 | எச்சவியல் | A Chapter on the Concepts of Extended Structures | 289–308 | 262–281 | displayed sūtras 391–457; notes 80–82 | complete |
 
 ## Remaining chapters
 
-There are **2 chapters remaining**, both in Part II — Morphology. Their physical and printed page ranges are maintained in [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md).
+There are **0 chapters remaining**. All eighteen chapters across Part I and Part II are complete. Post-chapter Research Topics, Index and Reference to Terms are tracked separately and begin at PDF page **309**.
