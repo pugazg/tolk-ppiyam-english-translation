@@ -33,4 +33,12 @@ See [`manifest.md`](manifest.md) for page-level progress and [`contents-index-ch
 
 ## Progress
 
-PDF pages **1–30** are transcribed and verified. Part I, Chapter 1 has begun with the Tamil source page and its English translation for sūtras 1–7.
+PDF pages **1–60** are transcribed and verified.
+
+Completed in Part I:
+
+- Chapter 1 — **நூன் மரபு / Conventions Of Grammar**, sūtras 1–33 and notes 1–11
+- Chapter 2 — **மொழி மரபு / Conventions of Usage**, sūtras 34–82
+- Chapter 3 — **பிறப்பியல் / A Chapter on the Production of Sounds**, sūtras 83–103 and notes 12–15
+
+Chapter 4 — **புணரியல் / A Chapter on the Grammar of Morphophonemic Change** has begun with sūtras 104–108.
