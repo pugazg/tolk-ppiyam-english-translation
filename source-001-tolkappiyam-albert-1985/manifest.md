@@ -29,12 +29,16 @@ Each completed physical PDF page has its own Markdown file. The table below grou
 | 223–236 | 196–209 | Part II Chapter 5 — பெயரியல் / Nouns | verified, complete | [`chapter-05-nouns/`](part-02-morphology/chapter-05-nouns/) |
 | 237–252 | 210–225 | Part II Chapter 6 — வினையியல் / Verbs | verified, complete | [`chapter-06-verbs/`](part-02-morphology/chapter-06-verbs/) |
 | 253–266 | 226–239 | Part II Chapter 7 — இடையியல் / Bound Morphemes | verified, complete | [`chapter-07-bound-morphemes/`](part-02-morphology/chapter-07-bound-morphemes/) |
-| 267–316 | 240 onward | Remaining Part II chapters and post-chapter sections | not-started | — |
+| 267–288 | 240–261 | Part II Chapter 8 — உரியியல் / Free Morphemes | verified, complete | [`chapter-08-free-morphemes/`](part-02-morphology/chapter-08-free-morphemes/) |
+| 289–308 | 262–281 | Part II Chapter 9 — எச்சவியல் / Concepts of Extended Structures | verified, complete | [`chapter-09-concepts-of-extended-structures/`](part-02-morphology/chapter-09-concepts-of-extended-structures/) |
+| 309–310 | 282–283 | Part II Research Topics | not-started | — |
+| 311–312 | 284–285 | Part II Index | not-started | — |
+| 313–316 | 286 onward | Reference to Terms and closing pages | not-started | — |
 
-**Current verified range:** PDF pages **1–266**.
+**Current verified range:** PDF pages **1–308**.
 
 - Part I is complete, including Research Topics and Index.
-- Part II Chapters 1–7 are complete.
-- Chapter 6 ends with displayed sūtra **243** and notes **53–75**.
-- Chapter 7 ends with displayed sūtra **291** and notes **76–78**; PDF page 266 is an intentionally retained blank archival page.
-- There are **2 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+- Part II Chapters 1–9 are complete.
+- Chapter 8 ends with displayed sūtra **390** and note **79**; PDF page 288 is an intentionally retained blank archival page.
+- Chapter 9 ends with displayed sūtra **457** and notes **80–82**.
+- There are **0 chapters remaining**. The next unread page is PDF page **309**, beginning Part II Research Topics.
