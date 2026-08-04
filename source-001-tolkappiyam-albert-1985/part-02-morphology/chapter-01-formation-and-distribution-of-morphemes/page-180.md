@@ -11,19 +11,18 @@ status: verified
 sutras: 8-16
 translation_of: page-179
 ---
-# 1. Formation and Distribution of Morphemes
 
 ## Non-Personal singular ending
 
 ### 8
 
-Words which show the non-personal singular, end with the shorter | u | that goes with | t |, | ṟ | and | ṭ |.
+Words which show the non-personal singular, and with the shorter `| u |` that goes with `| t |`, `| ṟ |` and `| ṭ |`.
 
 ## Non-Personal plural
 
 ### 9
 
-The three | a |, | ā | and | va | give the ending to the words showing the many.
+The three `| a |`, `| ā |` and `| va |` give the ending to the words showing the many.
 
 ## Verbal endings
 

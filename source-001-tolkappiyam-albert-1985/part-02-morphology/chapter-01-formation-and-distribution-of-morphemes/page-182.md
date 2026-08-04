@@ -11,7 +11,6 @@ status: verified
 sutras: 17-25
 translation_of: page-181
 ---
-# 1. Formation and Distribution of Morphemes
 
 ## Deviations
 
@@ -31,7 +30,7 @@ The use of an adjective whose antonym cannot qualify the noun, is not customary 
 
 The elements are described with set phrases, showing their original nature.
 
-## ———artificial———
+## —artificial—
 
 ### 20
 
@@ -57,7 +56,7 @@ If the gender is in doubt the plural of the class is used.⁵
 
 ### 24
 
-To point out the proper gender ending for the two classes of words, the word | uru | or the name itself is used.
+To point out the proper gender ending for the two classes of words, the word `| uru |` or the name itself is used.
 
 ## Syntactical value in preference to placement value
 

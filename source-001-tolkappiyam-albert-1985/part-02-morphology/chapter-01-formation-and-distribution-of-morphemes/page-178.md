@@ -11,6 +11,7 @@ status: verified
 sutras: 1-7
 translation_of: page-177
 ---
+
 # 1. Formation and Distribution of Morphemes¹
 
 ## The two classes
@@ -41,16 +42,16 @@ Naming words which denote the personal class female where the maleness is dorman
 
 ### 5
 
-The consonant | ṉ | shows the masculine.
+The consonant `| ṉ |` shows the masculine.
 
 ## Feminine ending
 
 ### 6
 
-The consonant | ḷ | shows the feminine.
+The consonant `| ḷ |` shows the feminine.
 
 ## Personal Class plural ending
 
 ### 7
 
-The consonant | r |, the final | pa | and | mār |, these three appear to show the personal class plural words.
+The consonant `| r |`, the final `| pa |` and `| mār |`—these three appear to show the personal class plural words.

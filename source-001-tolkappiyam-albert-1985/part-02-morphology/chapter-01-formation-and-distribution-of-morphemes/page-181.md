@@ -10,7 +10,6 @@ language: Tamil
 status: verified
 sutras: 17-25
 ---
-# 1. கிளவியாக்கம்
 
 ## 17
 
