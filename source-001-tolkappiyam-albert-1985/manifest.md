@@ -30,8 +30,12 @@ Each completed physical PDF page has its own Markdown file. The table below grou
 | 39–50 | 12–23 | Chapter 2 — மொழி மரபு / Conventions of Usage | verified, complete | [`chapter-02-conventions-of-usage/`](part-01-phonology/chapter-02-conventions-of-usage/) |
 | 51–58 | 24–31 | Chapter 3 — பிறப்பியல் / Production of Sounds | verified, complete | [`chapter-03-production-of-sounds/`](part-01-phonology/chapter-03-production-of-sounds/) |
 | 59–70 | 32–43 | Chapter 4 — புணரியல் / Morphophonemic Change | verified, complete | [`chapter-04-grammar-of-morphophonemic-change/`](part-01-phonology/chapter-04-grammar-of-morphophonemic-change/) |
-| 71–316 | 44 onward | Remaining Part I and Part II | not-started | — |
+| 71–84 | 44–57 | Chapter 5 — தொகை மரபு / Morphophonemic Grammar and Usage | verified, complete | [`chapter-05-morphophonemic-grammar-and-usage/`](part-01-phonology/chapter-05-morphophonemic-grammar-and-usage/) |
+| 85–94 | 58–67 | Chapter 6 — உருபியல் / Changes with Case Markers | verified, complete | [`chapter-06-case-marker-changes/`](part-01-phonology/chapter-06-case-marker-changes/) |
+| 95–316 | 68 onward | Remaining Part I and Part II | not-started | — |
 
-**Current verified range:** PDF pages **1–70**.
+**Current verified range:** PDF pages **1–94**.
 
-Chapter 4 is complete through sūtra **143**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md) for the 14 remaining chapter ranges.
+- Chapter 5 is complete through sūtra **173**, with notes **15a–18**.
+- Chapter 6 is complete through sūtra **203**, with notes **19–20**. PDF page 94 is an intentionally retained blank archival page.
+- There are **12 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
