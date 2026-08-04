@@ -35,7 +35,7 @@
 - Errata and final publications page: `back-matter/page-NNN.md`
 - Maintained contents, index and chapter navigation: `contents-index-chapters/`
 
-See [`manifest.md`](manifest.md) for the page audit and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
+See [`manifest.md`](manifest.md) for the page manifest, [`FINAL-AUDIT.md`](FINAL-AUDIT.md) for the final extraction audit and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
 
 ## Completion
 
