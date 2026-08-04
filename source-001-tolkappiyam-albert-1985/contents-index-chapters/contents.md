@@ -21,8 +21,8 @@ Source: printed contents on [PDF page 8](../front-matter/page-008.md).
 | 2 | Conventions of Usage | 13 | [Complete: PDF pages 39–50](../part-01-phonology/chapter-02-conventions-of-usage/page-039.md) |
 | 3 | A Chapter on the Production of Sounds | 25 | [Complete: PDF pages 51–58](../part-01-phonology/chapter-03-production-of-sounds/page-051.md) |
 | 4 | A Chapter on the Grammar of Morphophonemic Change | 33 | [Complete: PDF pages 59–70](../part-01-phonology/chapter-04-grammar-of-morphophonemic-change/page-059.md) |
-| 5 | Conventions of Morphophonemic Grammar and Usage | 45 | Not started — PDF pages 71–84 |
-| 6 | A Chapter on the Changes in Usage with Case-markers | 59 | Not started — PDF pages 85–94 |
+| 5 | Conventions of Morphophonemic Grammar and Usage | 45 | [Complete: PDF pages 71–84](../part-01-phonology/chapter-05-morphophonemic-grammar-and-usage/page-071.md) |
+| 6 | A Chapter on the Changes in Usage with Case-markers | 59 | [Complete: PDF pages 85–94](../part-01-phonology/chapter-06-case-marker-changes/page-085.md) |
 | 7 | A Chapter on the Changes in Usage with Vowels | 69 | Not started — PDF pages 95–118 |
 | 8 | A Chapter on Changes in Usage with Consonants | 93 | Not started — PDF pages 119–146 |
 | 9 | A Chapter on the Changes in Usage with the Shorter `|u|` | 121 | Not started — PDF pages 147–167 |
@@ -49,4 +49,4 @@ Source: printed contents on [PDF page 8](../front-matter/page-008.md).
 
 > The sequence `7, 8, 9` following Part I chapter 9 is retained exactly as printed.
 
-See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the complete physical and printed page-range table for the 14 remaining chapters.
+See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the complete physical and printed page-range table for the 12 remaining chapters.
