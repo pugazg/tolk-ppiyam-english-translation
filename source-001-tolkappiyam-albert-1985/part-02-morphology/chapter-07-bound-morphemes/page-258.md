@@ -46,13 +46,13 @@ The morpheme `| tañcam |` specifies easiness.
 
 The morpheme `| ār |` following a generic name requires a personal class plural ending in the predicate.
 
-## ______ — 266
+## —— — 266
 
 It can also occur as a euphonic empty morph.
 
-## `| ē |` and `| kurai |` — 267
+## `| ē |` and `| kuṟai |` — 267
 
-`| ē |` and `| kurai |` satisfy the two needs of extra phonemes and extra syllables.
+`| ē |` and `| kuṟai |` satisfy the two needs of extra phonemes and extra syllables.
 
 ## `| mā |` — 268
 
