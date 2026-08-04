@@ -25,10 +25,10 @@ Source: printed contents on [PDF page 8](../front-matter/page-008.md).
 | 6 | A Chapter on the Changes in Usage with Case-markers | 59 | [Complete: PDF pages 85–94](../part-01-phonology/chapter-06-case-marker-changes/page-085.md) |
 | 7 | A Chapter on the Changes in Usage with Vowels | 69 | [Complete: PDF pages 95–118](../part-01-phonology/chapter-07-vowel-changes/page-095.md) |
 | 8 | A Chapter on Changes in Usage with Consonants | 93 | [Complete: PDF pages 119–146](../part-01-phonology/chapter-08-consonant-changes/page-119.md) |
-| 9 | A Chapter on the Changes in Usage with the Shorter `|u|` | 121 | Not started — PDF pages 147–167 |
-| 7 | Research Topics | 141 | Not started |
+| 9 | A Chapter on the Changes in Usage with the Shorter `|u|` | 121 | [Complete: PDF pages 147–167](../part-01-phonology/chapter-09-shorter-u-changes/page-147.md) |
+| 7 | Research Topics | 141 | Not started — begins at PDF page 168 |
 | 8 | Index | 144 | Not started |
-| 9 | Tolkāppiyam in English | 149 | Not started |
+| 9 | Tolkāppiyam in English | 149 | Not started — Part II title at PDF page 176 |
 
 ## Part II — Morphology
 
@@ -49,4 +49,4 @@ Source: printed contents on [PDF page 8](../front-matter/page-008.md).
 
 > The sequence `7, 8, 9` following Part I chapter 9 is retained exactly as printed.
 
-See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the complete physical and printed page-range table for the 10 remaining chapters.
+See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the complete physical and printed page-range table for the 9 remaining chapters.
