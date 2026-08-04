@@ -12,7 +12,7 @@ notes: 67-75
 chapter_status: complete
 ---
 
-# Notes — continued
+# Notes
 
 ## 67
 
