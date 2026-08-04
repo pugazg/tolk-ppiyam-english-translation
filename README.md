@@ -23,9 +23,10 @@ source-001-tolkappiyam-albert-1985/
 │   └── page-001.md ... page-027.md
 ├── part-01-phonology/
 │   ├── page-028.md
-│   └── chapter-01-conventions-of-grammar/
-│       ├── page-029.md
-│       └── page-030.md
+│   ├── chapter-01-conventions-of-grammar/
+│   ├── chapter-02-conventions-of-usage/
+│   ├── chapter-03-production-of-sounds/
+│   └── chapter-04-grammar-of-morphophonemic-change/
 └── part-02-morphology/
     └── ...
 ```
@@ -34,6 +35,6 @@ Each page file records the PDF page number, printed page label where present, la
 
 ## Progress
 
-PDF pages **1–30** are transcribed and verified. The front matter is complete through the transliteration tables, and Part I — Phonology has begun with Chapter 1, **நூன் மரபு / Conventions Of Grammar**, sūtras 1–7.
+PDF pages **1–60** are transcribed and verified. Part I Chapters 1–3 are complete in this edition, and Chapter 4 has begun with sūtras 104–108.
 
 See [`source-001-tolkappiyam-albert-1985/manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for page-level status and [`source-001-tolkappiyam-albert-1985/contents-index-chapters/`](source-001-tolkappiyam-albert-1985/contents-index-chapters/) for maintained contents and chapter navigation.
