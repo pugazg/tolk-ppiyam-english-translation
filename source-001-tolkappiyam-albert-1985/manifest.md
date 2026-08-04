@@ -27,13 +27,14 @@ Each completed physical PDF page has its own Markdown file. The table below grou
 | 203–212 | 176–185 | Part II Chapter 3 — வேற்றுமை மயங்கியல் / Case-marker Substitution | verified, complete | [`chapter-03-case-marker-substitution/`](part-02-morphology/chapter-03-case-marker-substitution/) |
 | 213–222 | 186–195 | Part II Chapter 4 — விளி மரபு / Conventions of the Vocative | verified, complete | [`chapter-04-conventions-of-the-vocative/`](part-02-morphology/chapter-04-conventions-of-the-vocative/) |
 | 223–236 | 196–209 | Part II Chapter 5 — பெயரியல் / Nouns | verified, complete | [`chapter-05-nouns/`](part-02-morphology/chapter-05-nouns/) |
-| 237–316 | 210 onward | Remaining Part II chapters and post-chapter sections | not-started | — |
+| 237–252 | 210–225 | Part II Chapter 6 — வினையியல் / Verbs | verified, complete | [`chapter-06-verbs/`](part-02-morphology/chapter-06-verbs/) |
+| 253–266 | 226–239 | Part II Chapter 7 — இடையியல் / Bound Morphemes | verified, complete | [`chapter-07-bound-morphemes/`](part-02-morphology/chapter-07-bound-morphemes/) |
+| 267–316 | 240 onward | Remaining Part II chapters and post-chapter sections | not-started | — |
 
-**Current verified range:** PDF pages **1–236**.
+**Current verified range:** PDF pages **1–266**.
 
 - Part I is complete, including Research Topics and Index.
-- Part II Chapters 1–5 are complete.
-- Chapter 3 ends with displayed sūtra **114** and notes **12–13**.
-- Chapter 4 ends with displayed sūtra **151** and notes **14–28**; PDF page 222 is an intentionally retained blank archival page.
-- Chapter 5 ends with displayed sūtra **194** and notes **29–52**. The Tamil scan on PDF page 223 prints **167** where the sequence indicates **157**; this is preserved and explicitly noted.
-- There are **4 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+- Part II Chapters 1–7 are complete.
+- Chapter 6 ends with displayed sūtra **243** and notes **53–75**.
+- Chapter 7 ends with displayed sūtra **291** and notes **76–78**; PDF page 266 is an intentionally retained blank archival page.
+- There are **2 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).

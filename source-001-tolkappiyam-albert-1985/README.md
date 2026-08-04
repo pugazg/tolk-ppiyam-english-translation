@@ -35,7 +35,7 @@ See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](c
 
 ## Progress
 
-PDF pages **1–236** are transcribed and verified.
+PDF pages **1–266** are transcribed and verified.
 
 Completed:
 
@@ -45,5 +45,7 @@ Completed:
 - **Part II Chapter 3 — வேற்றுமை மயங்கியல் / A Chapter on the Case-marker Substitution:** PDF pages 203–212, displayed sūtras 80–114 and notes 12–13
 - **Part II Chapter 4 — விளி மரபு / Conventions of the Vocative:** PDF pages 213–222, displayed sūtras 115–151 and notes 14–28; page 222 is a blank archival page
 - **Part II Chapter 5 — பெயரியல் / A Chapter on the Nouns:** PDF pages 223–236, displayed sūtras 152–194 and notes 29–52
+- **Part II Chapter 6 — வினையியல் / A Chapter on the Verbs:** PDF pages 237–252, displayed sūtras 195–243 and notes 53–75
+- **Part II Chapter 7 — இடையியல் / A Chapter on the Bound Morphemes:** PDF pages 253–266, displayed sūtras 244–291 and notes 76–78; page 266 is a blank archival page
 
-There are **4 chapters remaining**, all in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+There are **2 chapters remaining**, both in Part II — Morphology. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).

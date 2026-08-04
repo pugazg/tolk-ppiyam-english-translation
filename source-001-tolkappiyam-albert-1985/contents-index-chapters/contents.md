@@ -26,8 +26,8 @@ All nine chapters, Research Topics and Index are complete through PDF page 175.
 | 3 | A Chapter on the Case-marker substitution | 177 | [Complete: PDF pages 203–212](../part-02-morphology/chapter-03-case-marker-substitution/page-203.md) |
 | 4 | Conventions of the Vocative | 187 | [Complete: PDF pages 213–222](../part-02-morphology/chapter-04-conventions-of-the-vocative/page-213.md) |
 | 5 | A Chapter on the Nouns | 197 | [Complete: PDF pages 223–236](../part-02-morphology/chapter-05-nouns/page-223.md) |
-| 6 | A Chapter on the Verbs | 211 | Not started — PDF pages 237–252 |
-| 7 | A Chapter on the Bound Morphemes | 227 | Not started — PDF pages 253–266 |
+| 6 | A Chapter on the Verbs | 211 | [Complete: PDF pages 237–252](../part-02-morphology/chapter-06-verbs/page-237.md) |
+| 7 | A Chapter on the Bound Morphemes | 227 | [Complete: PDF pages 253–266](../part-02-morphology/chapter-07-bound-morphemes/page-253.md) |
 | 8 | A Chapter on the Free Morphemes | 241 | Not started — PDF pages 267–288 |
 | 9 | A Chapter on the Concepts of Extended Structures | 263 | Not started — PDF pages 289–308 |
 | 10 | Research Topics | 282 | Not started |
@@ -36,4 +36,4 @@ All nine chapters, Research Topics and Index are complete through PDF page 175.
 
 > The sequence `7, 8, 9` following Part I chapter 9 is retained exactly as printed.
 
-See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the complete physical and printed page-range table for the 4 remaining chapters.
+See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the complete physical and printed page-range table for the 2 remaining chapters.
