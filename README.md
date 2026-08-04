@@ -29,18 +29,21 @@ source-001-tolkappiyam-albert-1985/
     ├── chapter-04-conventions-of-the-vocative/
     ├── chapter-05-nouns/
     ├── chapter-06-verbs/
-    └── chapter-07-bound-morphemes/
+    ├── chapter-07-bound-morphemes/
+    ├── chapter-08-free-morphemes/
+    └── chapter-09-concepts-of-extended-structures/
 ```
 
 Each page file records the physical PDF page, printed page label where present, language, section and transcription status. Doubtful readings are explicitly marked rather than silently corrected.
 
 ## Progress
 
-PDF pages **1–266** are transcribed and verified.
+PDF pages **1–308** are transcribed and verified.
 
 - **Part I — Phonology is complete**, including its nine chapters, Research Topics and Index.
-- **Part II — Morphology Chapters 1–7 are complete**.
+- **Part II — Morphology is complete through all nine chapters**.
+- All **18 chapters** in the volume are complete.
 
-There are **2 chapters remaining**, both in Part II — Morphology. The next chapter is **உரியியல் / A Chapter on the Free Morphemes**, beginning at PDF page **267**.
+There are **0 chapters remaining**. The next unread page is **PDF page 309**, beginning Part II Research Topics. Post-chapter sections continue through PDF page 316.
 
 See [`manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for progress and [`contents-index-chapters/`](source-001-tolkappiyam-albert-1985/contents-index-chapters/) for maintained navigation.
