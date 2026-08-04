@@ -29,25 +29,22 @@
 - Part I Index: `part-01-phonology/index/page-NNN.md`
 - Part II title or non-chapter pages: `part-02-morphology/page-NNN.md`
 - Part II chapter pages: `part-02-morphology/chapter-NN-short-title/page-NNN.md`
+- Part II Research Topics: `part-02-morphology/research-topics/page-NNN.md`
+- Part II Index: `part-02-morphology/index/page-NNN.md`
+- Reference to Terms: `part-02-morphology/reference-to-terms/page-NNN.md`
+- Errata and final publications page: `back-matter/page-NNN.md`
 - Maintained contents, index and chapter navigation: `contents-index-chapters/`
 
-See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
+See [`manifest.md`](manifest.md) for the page audit and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
 
-## Progress
+## Completion
 
-PDF pages **1–308** are transcribed and verified.
+PDF pages **1–316** are transcribed and verified.
 
 Completed:
 
 - **Part I — Phonology:** all nine chapters, Research Topics and Index
-- **Part II Chapter 1 — கிளவியாக்கம் / Formation and Distribution of Morphemes:** PDF pages 177–194, displayed sūtras 1–62 and notes 1–6
-- **Part II Chapter 2 — வேற்றுமையியல் / A Chapter on the Cases:** PDF pages 195–202, displayed sūtras 63–79 and notes 7–11
-- **Part II Chapter 3 — வேற்றுமை மயங்கியல் / A Chapter on the Case-marker Substitution:** PDF pages 203–212, displayed sūtras 80–114 and notes 12–13
-- **Part II Chapter 4 — விளி மரபு / Conventions of the Vocative:** PDF pages 213–222, displayed sūtras 115–151 and notes 14–28; page 222 is a blank archival page
-- **Part II Chapter 5 — பெயரியல் / A Chapter on the Nouns:** PDF pages 223–236, displayed sūtras 152–194 and notes 29–52
-- **Part II Chapter 6 — வினையியல் / A Chapter on the Verbs:** PDF pages 237–252, displayed sūtras 195–243 and notes 53–75
-- **Part II Chapter 7 — இடையியல் / A Chapter on the Bound Morphemes:** PDF pages 253–266, displayed sūtras 244–291 and notes 76–78; page 266 is a blank archival page
-- **Part II Chapter 8 — உரியியல் / A Chapter on the Free Morphemes:** PDF pages 267–288, displayed sūtras 292–390 and note 79; page 288 is a blank archival page
-- **Part II Chapter 9 — எச்சவியல் / A Chapter on the Concepts of Extended Structures:** PDF pages 289–308, displayed sūtras 391–457 and notes 80–82
+- **Part II — Morphology:** all nine chapters, Research Topics, Index and Reference to Terms
+- **Back matter:** Errata and the International Institute of Tamil Studies publications list
 
-There are **0 chapters remaining**. All eighteen chapters are complete. The next unread page is PDF page **309**, beginning Part II Research Topics.
+All **18 chapters**, every supporting section and every physical page of the source volume are complete. There are **0 pages remaining**.
