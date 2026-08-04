@@ -7,7 +7,7 @@ A page-by-page archival transcription of **Dr. D. Albert's _Tolkāppiyam: Phonol
 - Source PDF: `TVA_BOK_0013548_Tolkāppiyam.pdf`
 - Physical/PDF pages: 316
 - Languages: Tamil and English
-- Scope of this repository: one Markdown file per PDF page, preserving front matter, contents, chapter order, Tamil source pages, English translation pages, notes, references, and printed page numbering.
+- Scope: one Markdown file per physical PDF page, preserving front matter, contents, chapter order, Tamil source pages, English translation pages, notes, references and printed page numbering.
 
 ## Repository structure
 
@@ -18,7 +18,8 @@ source-001-tolkappiyam-albert-1985/
 ├── contents-index-chapters/
 │   ├── README.md
 │   ├── contents.md
-│   └── chapter-index.md
+│   ├── chapter-index.md
+│   └── remaining-chapter-ranges.md
 ├── front-matter/
 │   └── page-001.md ... page-027.md
 ├── part-01-phonology/
@@ -31,10 +32,12 @@ source-001-tolkappiyam-albert-1985/
     └── ...
 ```
 
-Each page file records the PDF page number, printed page label where present, language, section, and a transcription status. Text is transcribed from the scanned page; doubtful readings are explicitly marked rather than silently corrected.
+Each page file records the physical PDF page, printed page label where present, language, section and transcription status. Doubtful readings are explicitly marked rather than silently corrected.
 
 ## Progress
 
-PDF pages **1–60** are transcribed and verified. Part I Chapters 1–3 are complete in this edition, and Chapter 4 has begun with sūtras 104–108.
+PDF pages **1–70** are transcribed and verified. Part I Chapters 1–4 are complete. Chapter 4, **புணரியல் / A Chapter on the Grammar of Morphophonemic Change**, covers PDF pages 59–70 and sūtras 104–143.
 
-See [`source-001-tolkappiyam-albert-1985/manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for page-level status and [`source-001-tolkappiyam-albert-1985/contents-index-chapters/`](source-001-tolkappiyam-albert-1985/contents-index-chapters/) for maintained contents and chapter navigation.
+There are **14 chapters remaining**. See [`remaining-chapter-ranges.md`](source-001-tolkappiyam-albert-1985/contents-index-chapters/remaining-chapter-ranges.md) for their physical and printed page ranges.
+
+See [`manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for progress and [`contents-index-chapters/`](source-001-tolkappiyam-albert-1985/contents-index-chapters/) for maintained navigation.
