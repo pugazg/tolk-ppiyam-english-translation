@@ -17,10 +17,10 @@ Source: printed contents on [PDF page 8](../front-matter/page-008.md).
 
 | Printed no. | Printed title | Printed page | Transcription status |
 |---:|---|:---:|---|
-| 1 | Conventions of Grammar | 3 | [Started: PDF pages 29–30](../part-01-phonology/chapter-01-conventions-of-grammar/page-029.md) |
-| 2 | Conventions of Usage | 13 | Not started |
-| 3 | A Chapter on the Production of Sounds | 25 | Not started |
-| 4 | A Chapter on the Grammar of Morphophonemic Change | 33 | Not started |
+| 1 | Conventions of Grammar | 3 | [Complete: PDF pages 29–38](../part-01-phonology/chapter-01-conventions-of-grammar/page-029.md) |
+| 2 | Conventions of Usage | 13 | [Complete: PDF pages 39–50](../part-01-phonology/chapter-02-conventions-of-usage/page-039.md) |
+| 3 | A Chapter on the Production of Sounds | 25 | [Complete: PDF pages 51–58](../part-01-phonology/chapter-03-production-of-sounds/page-051.md) |
+| 4 | A Chapter on the Grammar of Morphophonemic Change | 33 | [In progress: PDF pages 59–60](../part-01-phonology/chapter-04-grammar-of-morphophonemic-change/page-059.md) |
 | 5 | Conventions of Morphophonemic Grammar and Usage | 45 | Not started |
 | 6 | A Chapter on the Changes in Usage with Case-markers | 59 | Not started |
 | 7 | A Chapter on the Changes in Usage with Vowels | 69 | Not started |
