@@ -23,7 +23,14 @@
 ## Naming
 
 - Front matter: `front-matter/page-NNN.md`
-- Part I — Phonology: `part-01-phonology/...`
-- Part II — Morphology: `part-02-morphology/...`
+- Part I title or non-chapter pages: `part-01-phonology/page-NNN.md`
+- Part I chapter pages: `part-01-phonology/chapter-NN-short-title/page-NNN.md`
+- Part II title or non-chapter pages: `part-02-morphology/page-NNN.md`
+- Part II chapter pages: `part-02-morphology/chapter-NN-short-title/page-NNN.md`
+- Maintained contents, index and chapter navigation: `contents-index-chapters/`
 
-See [`manifest.md`](manifest.md) for progress and section mapping.
+See [`manifest.md`](manifest.md) for page-level progress and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
+
+## Progress
+
+PDF pages **1–30** are transcribed and verified. Part I, Chapter 1 has begun with the Tamil source page and its English translation for sūtras 1–7.
