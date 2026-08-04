@@ -16,13 +16,13 @@ translation_of: page-263
 
 ## In a series — 285
 
-Wherever these endings of numerals and naming words where such endings are not added and enumerations with `| ē |` occur, they will not occur except in a series.
+Wherever these endings of numerals and naming-words where such endings are not added and enumerations with `| ē |` occur,they will not occur except in a series.
 
 ## `| um |` — 286
 
 When `| um |` appears in enumeration it is not forbidden to make the case marker disappear.
 
-## `| um |` — `| untu |` — 287
+## `| um |` —— `| untu |` — 287
 
 There are places where the `| um |` becomes `| untu |`.
 
@@ -32,11 +32,11 @@ The morphemes of enumeration do not change their nature when they occur along wi
 
 ## Three morphemes — 289
 
-`| eṉṟu |`, `| eṉa |`, `| ōṭu |` may appear in one place in an enumeration; they may even be distributed.
+`| eṉṟu |`, `| ena |`, `| ōṭu |` may appear in one place in an enumeration; they may even be distributed.
 
 ## A caution — 290
 
-Though it is described here which morpheme makes which sense they should be carefully delineated if they appear along with verbs and nouns in a different way.
+Though it is described here which morpheme makes which sense they should be carefully delineated if they app;ar along with verbs and nouns in a different way.
 
 ## Other bound morphemes — 291
 
