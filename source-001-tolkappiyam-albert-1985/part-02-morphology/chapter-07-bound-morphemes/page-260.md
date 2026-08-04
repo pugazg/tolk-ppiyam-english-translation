@@ -24,7 +24,7 @@ Scholars tell us that among these `| ikum |` and `| tiṉ |` may appear rightly 
 
 ## `| amma |` — 271
 
-`| amma |` is used to draw one's attention.
+`| amma |` is used to draw one’s attention.
 
 ## `| āṅka |` — 272
 
@@ -38,10 +38,10 @@ Scholars tell us that among these `| ikum |` and `| tiṉ |` may appear rightly 
 
 The seven morphemes `| yā |`, `| kā |`, `| piṟa |`, `| piṟakku |`, `| arō |`, `| pō |`, `| mātu |` are empty morphs.
 
-## ______ — 275
+## —— — 275
 
-The three `| āka |`, `| ākal |` and `| eṉpatu |` are non-separable⁷⁸ empty morphs.
+The three `| āka |`, `| ākal |` and `| eṉpatu |` are non-separable⁷⁶ empty morphs.
 
 ## `| au |` — 276
 
-When that vowel of a double measure which does not take the final position⁷⁷, occurs in this way,⁷⁶ as it occurs in the elongated form or as it occurs without the elongation by itself, the meaning of the utterance may change and this can be understood by the tone of the speaker.
+When that vowel of a double measure which does not take the final position⁷⁷, occurs in this way,⁷⁸ as it occurs in the elongated form or as it occurs without the elongation by itself, the meaning of the utterance may change and this can be understood by the tone of the speaker.
