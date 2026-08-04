@@ -29,16 +29,17 @@
 - Part II chapter pages: `part-02-morphology/chapter-NN-short-title/page-NNN.md`
 - Maintained contents, index and chapter navigation: `contents-index-chapters/`
 
-See [`manifest.md`](manifest.md) for page-level progress and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
+See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
 
 ## Progress
 
-PDF pages **1–60** are transcribed and verified.
+PDF pages **1–70** are transcribed and verified.
 
 Completed in Part I:
 
-- Chapter 1 — **நூன் மரபு / Conventions Of Grammar**, sūtras 1–33 and notes 1–11
-- Chapter 2 — **மொழி மரபு / Conventions of Usage**, sūtras 34–82
-- Chapter 3 — **பிறப்பியல் / A Chapter on the Production of Sounds**, sūtras 83–103 and notes 12–15
+- Chapter 1 — **நூன் மரபு / Conventions Of Grammar**, PDF pages 29–38
+- Chapter 2 — **மொழி மரபு / Conventions of Usage**, PDF pages 39–50
+- Chapter 3 — **பிறப்பியல் / A Chapter on the Production of Sounds**, PDF pages 51–58
+- Chapter 4 — **புணரியல் / A Chapter on the Grammar of Morphophonemic Change**, PDF pages 59–70, sūtras 104–143
 
-Chapter 4 — **புணரியல் / A Chapter on the Grammar of Morphophonemic Change** has begun with sūtras 104–108.
+There are **14 chapters remaining**: Part I Chapters 5–9 and Part II Chapters 1–9. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
