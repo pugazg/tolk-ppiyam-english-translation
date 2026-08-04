@@ -22,11 +22,11 @@ translation_of: page-261
 
 `| um |` added to a premodifier and `| um |` used along with a negative cannot be placed together.
 
-## ______ placement — 279
+## ——placement — 279
 
 If it is not actually used with the words where they should, these words are placed first and not after.
 
-## ______ exclusiveness — 280
+## ——exclusiveness — 280
 
 The `| um |` which shows inclusiveness as it occurs with numerals may even indicate exclusiveness.
 
