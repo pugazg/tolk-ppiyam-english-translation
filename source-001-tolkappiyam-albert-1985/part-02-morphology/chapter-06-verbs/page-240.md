@@ -18,7 +18,7 @@ translation_of: page-239
 
 The four `| aṉ |`, `| āṉ |`, `| aḷ |` and `| āḷ |` are third person singular morphemes.
 
-## ______ plural — 203
+## ——plural — 203
 
 The three `| ar |`, `| ār |`, and `| pa |` are the third person plural morphemes.
 
@@ -50,4 +50,4 @@ The morpheme `| āy |` behaves in the same manner.
 
 With the case marker morpheme `| atu |` showing possessive names⁵⁸, with the case marker morpheme indicating names by place⁵⁹, with comparatives⁶⁰ and indications of quality⁶¹, time is always implied.
 
-Time is only implied in formations with morphemes expressing negation⁶², with morphemes expressing absence⁶³, morphemes expressing presence⁶⁴, those expressing capability⁶⁵ and in all such formations of implied time.
+Time is only implied in formations with morphemes expressing negation,⁶² with morphemes expressing absence⁶³, morphemes expressing presence⁶⁴, those expressing capability⁶⁵ and in all such formations of implied time.
