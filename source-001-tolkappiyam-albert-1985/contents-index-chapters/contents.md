@@ -19,6 +19,8 @@ All nine chapters, Research Topics and Index are complete through PDF page 175.
 
 ## Part II — Morphology
 
+All nine chapters are complete through PDF page 308.
+
 | Printed no. | Printed title | Printed page | Transcription status |
 |---:|---|:---:|---|
 | 1 | Formation and distribution of Morphemes | 151 | [Complete: PDF pages 177–194](../part-02-morphology/chapter-01-formation-and-distribution-of-morphemes/page-177.md) |
@@ -28,12 +30,12 @@ All nine chapters, Research Topics and Index are complete through PDF page 175.
 | 5 | A Chapter on the Nouns | 197 | [Complete: PDF pages 223–236](../part-02-morphology/chapter-05-nouns/page-223.md) |
 | 6 | A Chapter on the Verbs | 211 | [Complete: PDF pages 237–252](../part-02-morphology/chapter-06-verbs/page-237.md) |
 | 7 | A Chapter on the Bound Morphemes | 227 | [Complete: PDF pages 253–266](../part-02-morphology/chapter-07-bound-morphemes/page-253.md) |
-| 8 | A Chapter on the Free Morphemes | 241 | Not started — PDF pages 267–288 |
-| 9 | A Chapter on the Concepts of Extended Structures | 263 | Not started — PDF pages 289–308 |
-| 10 | Research Topics | 282 | Not started |
-| 11 | Index | 284 | Not started |
-| 12 | Reference to Terms | 286 | Not started |
+| 8 | A Chapter on the Free Morphemes | 241 | [Complete: PDF pages 267–288](../part-02-morphology/chapter-08-free-morphemes/page-267.md) |
+| 9 | A Chapter on the Concepts of Extended Structures | 263 | [Complete: PDF pages 289–308](../part-02-morphology/chapter-09-concepts-of-extended-structures/page-289.md) |
+| 10 | Research Topics | 282 | Not started — PDF pages 309–310 |
+| 11 | Index | 284 | Not started — PDF pages 311–312 |
+| 12 | Reference to Terms | 286 | Not started — PDF pages 313–316 |
 
 > The sequence `7, 8, 9` following Part I chapter 9 is retained exactly as printed.
 
-See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md) for the complete physical and printed page-range table for the 2 remaining chapters.
+There are no remaining chapters. The next unread section is Part II Research Topics, beginning at PDF page 309. See [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md).
