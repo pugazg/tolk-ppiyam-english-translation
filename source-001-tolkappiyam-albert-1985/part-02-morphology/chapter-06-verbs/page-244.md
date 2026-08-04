@@ -13,7 +13,9 @@ translation_of: page-243
 continuation_from: page-242
 ---
 
-# Tolkāppiyam in English — continued
+# Tolkāppiyam in English
+
+## 217 (continued)
 
 negation and in the words `| vēṟu |`, `| ceymaṉa |`, `| ceyyum |` and `| ceyta |` belong to both the classes differing from the normal usage, expressing the two different senses.
 
@@ -35,12 +37,12 @@ Among these the expression of wish may not often go with the second and first pe
 
 ## `| ceyyum |` — 222
 
-The word `| ceyyum |` showing the present will not occur with the following three—the third person plural, the second and the first person.
+The word `| ceyyum |` showing the present will not occur with the following three-the third person plural the second and the first person.
 
 ## Premodifiers of verbal phrases — 223
 
-The nine premodifiers of verbal phrases are `| ceytu |`, `| ceyyū |`, `| ceypu |`, `| ceyta |`, `| ceyyiyar |`, `| ceyyiya |`, `| ceyiṉ |`, `| ceya |` and `| ceyaṟku |`.
+The nine premodifiers of verbal phrases are `| ceytu |`, `| ceyyū |`, `| ceypu |`, `| ceyta a |`, `| ceyyiyar |`, `| ceyyiya |`, `| ceyin |`, `| ceya |` and `| ceyaṟku |`.
 
-## Other ______ — 224
+## Other—— — 224
 
 Words such as `| piṉ |`, `| muṉ |`, `| kāl |`, `| kaṭai |`, `| vaḻi |` and `| iṭattu |` which indicate time do the same function.
