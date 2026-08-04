@@ -43,11 +43,11 @@ The Tamil word `| poṉṉaṉ |` is the equivalent of the one who possesses gol
 
 ## 59
 
-The time element found in the phrase, one who occupies or possesses this estate is only implied in the equivalent Tamil word `| tōṭṭattāṉ |`.
+The time element found in the phrase, one who occupies or possesses this estate is only implied in the equivalent Tamil word `| tōṭṭattāṉ |`
 
 ## 60
 
-The Tamil phrase `| oppāṉ |` shows time only in an implied way and not explicitly as in the English rendering of `| oppāṉ |`. He is like ______.
+The Tamil phrase `| oppāṉ |` shows time only in an implied way and not explicitly as in the English rendering of `| oppāṉ |` He is like——.
 
 ## 61
 
@@ -55,19 +55,19 @@ The Tamil phrase `| oppāṉ |` shows time only in an implied way and not explic
 
 ## 62
 
-`| aṉmai |`; `| allar |`.
+`| aṉmai |`, `| allar |`.
 
 ## 63
 
-`| iṉmai |`; `| illar |`.
+`| iṉmai |`, `| illar |`.
 
 ## 64
 
-`| uṇmai |`; `| uḷar |`.
+`| uṇmai |`, `| uḷar |`.
 
 ## 65
 
-`| vaṉmai |`; `| vallar |`.
+`| vaṉmai |`, `| villar |`.
 
 ## 66
 
