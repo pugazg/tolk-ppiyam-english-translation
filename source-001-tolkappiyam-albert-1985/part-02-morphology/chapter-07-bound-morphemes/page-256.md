@@ -16,7 +16,7 @@ translation_of: page-255
 
 ## `| um |` — 250
 
-The morpheme `| um |` goes with these eight: implied incompleteness, greatness, doubt, negation, completeness, enumeration, indication of known alternatives and becoming something.
+The morpheme `| um |` goes with these eight; implied incompleteness, greatness, doubt, negation, completeness, enumeration, indication of known alternatives and becoming something.
 
 ## `| ō |` — 251
 
@@ -26,9 +26,9 @@ The morpheme `| ō |` goes with the six expressions of doubt, interrogation, neg
 
 `| ē |` goes with the five expressions of clarity of choice, interrogation, doubt, enumeration and the final euphonic phoneme.
 
-## `| eṉa |` — 253
+## `| ena |` — 253
 
-The morpheme `| eṉa |` goes with the six expressions of verbs, intention, indications of sounds, quality, enumeration and names.
+The morpheme `| ena |` goes with the six expressions of verbs, intention, indications of sounds, quality, enumeration and names.
 
 ## `| eṉṟu |` — 254
 
@@ -44,4 +44,4 @@ The morpheme `| eṉṟu |` does the same.
 
 ## `| maṟṟu |` — 257
 
-Scholars tell us that the morpheme `| maṟṟu |` behaves in two ways: conjunctor of antonyms and euphonic empty morph.
+Scholars tell us that the morpheme `| maṟṟu |` behaves in two ways; conjunctor of antonyms and euphonic empty morph.
