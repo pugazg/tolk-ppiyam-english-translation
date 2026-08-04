@@ -33,15 +33,17 @@ See [`manifest.md`](manifest.md) for progress and [`contents-index-chapters/`](c
 
 ## Progress
 
-PDF pages **1–94** are transcribed and verified.
+PDF pages **1–146** are transcribed and verified.
 
 Completed in Part I:
 
 - Chapter 1 — **நூன் மரபு / Conventions Of Grammar**, PDF pages 29–38
 - Chapter 2 — **மொழி மரபு / Conventions of Usage**, PDF pages 39–50
 - Chapter 3 — **பிறப்பியல் / A Chapter on the Production of Sounds**, PDF pages 51–58
-- Chapter 4 — **புணரியல் / A Chapter on the Grammar of Morphophonemic Change**, PDF pages 59–70, sūtras 104–143
-- Chapter 5 — **தொகை மரபு / Conventions of Morphophonemic Grammar and Usage**, PDF pages 71–84, sūtras 144–173 and notes 15a–18
-- Chapter 6 — **உருபியல் / A Chapter on the Changes in Usage with Case Markers**, PDF pages 85–94, sūtras 174–203 and notes 19–20; page 94 is blank in the scan and retained as an archival page
+- Chapter 4 — **புணரியல் / A Chapter on the Grammar of Morphophonemic Change**, PDF pages 59–70
+- Chapter 5 — **தொகை மரபு / Conventions of Morphophonemic Grammar and Usage**, PDF pages 71–84
+- Chapter 6 — **உருபியல் / A Chapter on the Changes in Usage with Case Markers**, PDF pages 85–94
+- Chapter 7 — **உயிர் மயங்கியல் / A Chapter on the Changes in Usage with Vowels**, PDF pages 95–118
+- Chapter 8 — **புள்ளி மயங்கியல் / A Chapter on the Changes in Usage with Consonants**, PDF pages 119–146
 
-There are **12 chapters remaining**: Part I Chapters 7–9 and Part II Chapters 1–9. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+There are **10 chapters remaining**: Part I Chapter 9 and Part II Chapters 1–9. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).

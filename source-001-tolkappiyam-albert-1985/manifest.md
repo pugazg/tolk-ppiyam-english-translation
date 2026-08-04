@@ -32,10 +32,12 @@ Each completed physical PDF page has its own Markdown file. The table below grou
 | 59–70 | 32–43 | Chapter 4 — புணரியல் / Morphophonemic Change | verified, complete | [`chapter-04-grammar-of-morphophonemic-change/`](part-01-phonology/chapter-04-grammar-of-morphophonemic-change/) |
 | 71–84 | 44–57 | Chapter 5 — தொகை மரபு / Morphophonemic Grammar and Usage | verified, complete | [`chapter-05-morphophonemic-grammar-and-usage/`](part-01-phonology/chapter-05-morphophonemic-grammar-and-usage/) |
 | 85–94 | 58–67 | Chapter 6 — உருபியல் / Changes with Case Markers | verified, complete | [`chapter-06-case-marker-changes/`](part-01-phonology/chapter-06-case-marker-changes/) |
-| 95–316 | 68 onward | Remaining Part I and Part II | not-started | — |
+| 95–118 | 68–91 | Chapter 7 — உயிர் மயங்கியல் / Changes with Vowels | verified, complete | [`chapter-07-vowel-changes/`](part-01-phonology/chapter-07-vowel-changes/) |
+| 119–146 | 92–119 | Chapter 8 — புள்ளி மயங்கியல் / Changes with Consonants | verified, complete | [`chapter-08-consonant-changes/`](part-01-phonology/chapter-08-consonant-changes/) |
+| 147–316 | 120 onward | Remaining Part I and Part II | not-started | — |
 
-**Current verified range:** PDF pages **1–94**.
+**Current verified range:** PDF pages **1–146**.
 
-- Chapter 5 is complete through sūtra **173**, with notes **15a–18**.
-- Chapter 6 is complete through sūtra **203**, with notes **19–20**. PDF page 94 is an intentionally retained blank archival page.
-- There are **12 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).
+- Chapter 7 is complete through sūtra **296**, with notes **21–29**.
+- Chapter 8 is complete through sūtra **406**, with notes **30–36**. PDF page 146 is an intentionally retained blank archival page.
+- There are **10 chapters remaining**. See [`contents-index-chapters/remaining-chapter-ranges.md`](contents-index-chapters/remaining-chapter-ranges.md).

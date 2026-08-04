@@ -60,10 +60,30 @@ Chapter boundaries are recorded from the scanned opening pages. Physical PDF pag
 - English title: **A Chapter on the Changes in Usage with Case Markers**
 - Physical PDF range: **85–94**
 - Printed range: **58–67**
-- Contents: sūtras 174–203, notes 19–20 and one blank archival page
+- Contents: sūtras 174–203 and notes 19–20
 - Folder: [`part-01-phonology/chapter-06-case-marker-changes/`](../part-01-phonology/chapter-06-case-marker-changes/)
+- Status: complete
+
+### Chapter 7
+
+- Tamil title: **உயிர் மயங்கியல்**
+- English title: **A Chapter on the Changes in Usage with Vowels**
+- Physical PDF range: **95–118**
+- Printed range: **68–91**
+- Contents: sūtras 204–296 and notes 21–29
+- Folder: [`part-01-phonology/chapter-07-vowel-changes/`](../part-01-phonology/chapter-07-vowel-changes/)
+- Status: complete
+
+### Chapter 8
+
+- Tamil title: **புள்ளி மயங்கியல்**
+- English title: **A Chapter on the Changes in Usage with Consonants**
+- Physical PDF range: **119–146**
+- Printed range: **92–119**
+- Contents: sūtras 297–406 and notes 30–36
+- Folder: [`part-01-phonology/chapter-08-consonant-changes/`](../part-01-phonology/chapter-08-consonant-changes/)
 - Status: complete
 
 ## Remaining chapters
 
-There are **12 chapters remaining**: three in Part I and nine in Part II. Their verified physical and printed page ranges are maintained in [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md).
+There are **10 chapters remaining**: Chapter 9 in Part I and Chapters 1–9 in Part II. Their verified physical and printed page ranges are maintained in [`remaining-chapter-ranges.md`](remaining-chapter-ranges.md).

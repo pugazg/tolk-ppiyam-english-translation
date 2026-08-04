@@ -29,7 +29,9 @@ source-001-tolkappiyam-albert-1985/
 │   ├── chapter-03-production-of-sounds/
 │   ├── chapter-04-grammar-of-morphophonemic-change/
 │   ├── chapter-05-morphophonemic-grammar-and-usage/
-│   └── chapter-06-case-marker-changes/
+│   ├── chapter-06-case-marker-changes/
+│   ├── chapter-07-vowel-changes/
+│   └── chapter-08-consonant-changes/
 └── part-02-morphology/
     └── ...
 ```
@@ -38,11 +40,8 @@ Each page file records the physical PDF page, printed page label where present, 
 
 ## Progress
 
-PDF pages **1–94** are transcribed and verified. Part I Chapters **1–6** are complete.
+PDF pages **1–146** are transcribed and verified. Part I Chapters 1–8 are complete.
 
-- Chapter 5, **தொகை மரபு / Conventions of Morphophonemic Grammar and Usage**, covers PDF pages 71–84 and sūtras 144–173 with notes 15a–18.
-- Chapter 6, **உருபியல் / A Chapter on the Changes in Usage with Case Markers**, covers PDF pages 85–94 and sūtras 174–203 with notes 19–20. Page 94 is a blank archival page retained from the scan.
-
-There are **12 chapters remaining**. The next chapter is Chapter 7, **உயிர் மயங்கியல்**, beginning at PDF page **95** and ending at PDF page **118**.
+There are **10 chapters remaining**. See [`remaining-chapter-ranges.md`](source-001-tolkappiyam-albert-1985/contents-index-chapters/remaining-chapter-ranges.md) for their physical and printed page ranges.
 
 See [`manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for progress and [`contents-index-chapters/`](source-001-tolkappiyam-albert-1985/contents-index-chapters/) for maintained navigation.
