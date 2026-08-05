@@ -73,8 +73,8 @@ All 24 source pages were rendered directly from the attached PDF and visually co
 
 - Cumulative audited range: **PDF pages 1–118**
 - Cumulative pages audited: **118 of 316 (37.34%)**
-- Cumulative corrected or expanded page records: **88**
-- Cumulative audited pages requiring no change: **30**
+- Cumulative corrected or expanded page records: **89**
+- Cumulative audited pages requiring no change: **29**
 - Cumulative unresolved source locations: **2**
 - Remaining for textual-fidelity audit: **198 pages**
 - Next self-contained unit: **Part I Chapter 8 — புள்ளி மயங்கியல் / A Chapter on the Changes in Usage with Consonants, PDF pages 119–146**
