@@ -51,10 +51,10 @@ All **316 physical PDF pages** have corresponding Markdown records.
 
 A second-pass visual comparison of every Markdown page against the scan is underway.
 
-- Audited: **PDF pages 1–176**
-- Progress: **176 of 316 pages (55.70%)**
-- Corrected or expanded across Iterations 1–9: **137 page records**
-- Audited pages requiring no change: **39**
-- Remaining for second-pass audit: **140 pages**
+- Audited: **PDF pages 1–202**
+- Progress: **202 of 316 pages (63.92%)**
+- Corrected or expanded across Iterations 1–10: **156 page records**
+- Audited pages requiring no change: **46**
+- Remaining for second-pass audit: **114 pages**
 
 See the [`textual-fidelity audit tracker`](source-001-tolkappiyam-albert-1985/TEXTUAL-FIDELITY-AUDIT.md), the [`structural extraction audit`](source-001-tolkappiyam-albert-1985/FINAL-AUDIT.md), the [`manifest`](source-001-tolkappiyam-albert-1985/manifest.md) and the [`maintained navigation`](source-001-tolkappiyam-albert-1985/contents-index-chapters/).
