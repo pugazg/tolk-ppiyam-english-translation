@@ -38,11 +38,11 @@ Even if there are adjuncts added to the preceding and the following words they b
 
 Even if the words are deformed when they come together the same rules of change hold good.
 
-## Addition as change.
+## Additior as change.
 
 ### 113
 
-In the context of a case relation as well as a non-case relation, a phoneme or an empty morph may appear when morphophonemic changes take place.
+In the context of a case relation as well as a non-case relation, a phoneme or an empty morph may appear when morphonoemic changes take place.
 
 ## Case markers
 
