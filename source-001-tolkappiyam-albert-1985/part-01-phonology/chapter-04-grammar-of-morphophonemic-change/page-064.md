@@ -30,19 +30,19 @@ Empty morphs are added to these after them.
 
 ### 120
 
-There are a number of empty morphs such as | in |, | vaṟṟu |, | attu |, | am |, | on |, | ān |, | akku |, | ikku |, and | an |.
+There are a number of empty morphs such as | iṉ |, | vaṟṟu |, | attu |, | am |, | oṉ |, | āṉ |, | akku |, | ikku |, and | aṉ |.
 
 ## Elision of | i |
 
 ### 121
 
-Of these the | i | of | in | may disappear after a final | ā |.
+Of these the | i | of | iṉ | may disappear after a final | ā |.
 
 ## Assimilation of | ṉ |
 
 ### 122
 
-The | ṉ | too may change into | r | when it precedes a word meaning measure.
+The | ṉ | too may change into | ṟ | when it precedes a word meaning measure.
 
 ## Elision of | v |.
 
@@ -54,11 +54,11 @@ After the demonstrative where | a | is followed by | i | the consonant | v | is 
 
 ### 124
 
-The | ṉ | become | r | when the fourth case marker follows.
+The | ṉ | become | ṟ | when the fourth case marker follows.
 
 ### 125
 
-When a noun naming a day takes | ān | and when this is followed by a verb with a hard consonant at its initial position the ṉ undergoes the same change.
+When a noun naming a day takes | āṉ | and when this is followed by a verb with a hard consonant at its initial position the ṉ undergoes the same change.
 
 ## Elision of | a |
 
