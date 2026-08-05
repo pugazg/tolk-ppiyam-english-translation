@@ -14,6 +14,8 @@ translation_of: page-089
 
 # 6. A Chapter on the Changes in Usage With Case Markers
 
+## —
+
 ### 189
 
 The same holds good with the final | m | sounds in | tām | and | nām |; the same is true of | yām | where the final | ā | in | yā | becomes | e | and the | y | there disappears. In the other two the opening long sounds are shortened.
