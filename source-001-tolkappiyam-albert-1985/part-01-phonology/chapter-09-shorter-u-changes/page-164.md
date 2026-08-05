@@ -29,7 +29,7 @@ With measures and weights the same pattern is followed.
 
 ### 478
 
-In the opinion of scholars when the hard consonants, | ñ |, | n |, | m | and | y |, | v | follow the first number, the pattern discussed earlier holds good.
+In the apinion of scholars when the hard consonants, | ñ |, | n |, | m | and | y |, | v | follow the first number, the pattern discussed earlier holds good.
 
 ## + vowel
 
