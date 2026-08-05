@@ -15,7 +15,7 @@ continuation: page-057
 
 # Notes — continued
 
-14. Graduate and Research Institute, 1965) and K. Murugaiyan’s “Tolkappiyar’s Concept of Phonetics” referred to in Notes 10.
+14. Graduate and Research Institute, 1965) and K. Murugaiyan’s “Tolkappiyar’s Concept of Phonetics” referred to in Notes10.
 
     The Tamil word when it means variation can also mean the technical variant. Therefore it means the allophones, the allophonic variants. It is quite all right to say that these variants are not of much significance.
 
