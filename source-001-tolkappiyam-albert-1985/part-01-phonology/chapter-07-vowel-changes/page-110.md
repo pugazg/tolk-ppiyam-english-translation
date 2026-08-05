@@ -11,55 +11,58 @@ status: verified
 sutras: 260-268
 translation_of: page-109
 ---
+
 # 7. A Chapter on the Changes in Usage with Vowels
 
-### Case
+## —case
 
 ## 260
 
 In case relations too the same usage holds good.
 
+## —
+
 ## 261
 
 It is clear that | eru | and | ceru | undergo changes taking | am |. With | ceru |, the | m | of | am | disappears, as the hard consonant doubles itself.
 
-### Length
+## —length
 
 ## 262
 
 | ḻu | may stand lengthened; there appears then | u |.
 
-### Tree
+## — = tree
 
 ## 263
 
-The word | oṭu | tree behaves like | uti |, a word for tree.
+The word | oṭu | tree behaves like | uti | a word for tree.
 
-### Demonstrative initial
+## Demonstrative initial
 
 ## 264
 
 This, in the final position along with a demonstrative in the initial, behaves as it does in case relations. The doubling of the hard consonant does not then occur.
 
-### | ū |
+## —ū
 
 ## 265
 
-| ū | at the final position behaves like | ā |.
+| ū | at the final position behaves like the | ā |.
 
-### Categories
+## —categories
 
 ## 266
 
 It is understood that the premodifier in a verbal phrase and second person verbs do not behave differently from this.
 
-### Case
+## —case
 
 ## 267
 
 It is the same in case relations too.
 
-### After short vowels
+## —after......
 
 ## 268
 
