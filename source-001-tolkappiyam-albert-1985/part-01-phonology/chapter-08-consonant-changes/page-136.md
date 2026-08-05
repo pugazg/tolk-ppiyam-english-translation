@@ -13,55 +13,55 @@ translation_of: page-135
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### + | am |
+### —+ | am |
 
 ## 366
 
 The morpheme | pīr | takes | am |.
 
-### | l |
+### — | l |
 
 ## 367
 
 A | l | at the final position behaves like a | ṉ | in the same position.
 
-### Shift to | ṉ |
+### —shift to | ṉ |
 
 ## 368
 
 If the soft consonant comes to join, then this becomes | ṉ |.
 
-### Non-case
+### —non-case
 
 ## 369
 
 It is said that non-case relations end in either way.
 
-### To | aytam |
+### —to | āytam |
 
 ## 370
 
 Scholars tell us that when | t | occurs initially in the following word | aytam | too may occupy the final position in the preceding word.
 
-### + long
+### — + long
 
 ## 371
 
 This | l | along with a preceding long vowel undergoes no change.
 
-### Non-case
+### —non case
 
 ## 372
 
 Even in non-case relations | nel |, | cel |, | kol | and | col | behave as in case relations.
 
-### Negation
+### —negation
 
 ## 373
 
 When the morpheme | il | specifies a negation, it may take, as in the accepted traditions of usage, the recurrence of the hard consonant, the insertion of | ai | or it may not admit any change, or | ā | may occur.
 
-### | val |
+### — | val |
 
 ## 374
 
