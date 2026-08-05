@@ -12,6 +12,8 @@ sutras: 34-41
 translation_of: page-185
 ---
 
+## ———
+
 ### 34
 
 The same is done when an imaginary thing is mentioned.
