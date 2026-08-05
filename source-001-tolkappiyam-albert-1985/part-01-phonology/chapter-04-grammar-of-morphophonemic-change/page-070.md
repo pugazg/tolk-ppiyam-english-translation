@@ -21,6 +21,8 @@ chapter_status: complete
 
 Words which appear similar in form will mean differently according to the effect of the juncture we make.
 
+## —
+
 ### 143
 
 These cannot be written down with the help of particular words as the context decides the meaning.
