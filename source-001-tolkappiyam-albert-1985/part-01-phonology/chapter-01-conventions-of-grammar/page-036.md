@@ -24,11 +24,11 @@ The consonants | ñ |, | n |, | m | and | v | are followed by | y | meaningfully
 
 ### 28
 
-The consonant | m | is followed by | v |.
+The consonant | m | is followed by | v |
 
 ### 29
 
-The consonants | y |, | r | and | ḻ | are followed by the initial consonants¹¹ and | a |.
+The consonants | y |, | r | and | ḻ | are followed by the initial consonants¹¹ and | ṅ |
 
 ## In the first way
 
