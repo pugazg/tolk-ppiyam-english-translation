@@ -10,64 +10,65 @@ language: English
 status: verified
 sutras: 356-365
 translation_of: page-133
+numbering_note: scan prints 353 where sequence indicates 358
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### + | il |
+### — + | il |
 
 ## 356
 
 The morpheme | il | appearing after | muṉ | takes the consonant | ṟ |; this change is in accordance with usages found in tradition.
 
-### + | la |, | m |
+### — + | la |, | m |
 
 ## 357
 
 In versification the final sound in the word | poṉ | disappears as | la | and the consonant | m | follow.
 
-### | y |
+### — | y |
 
-## 358
+## 353 [printed; sequence indicates 358]
 
 In case relations when | y | in the final position is followed by a hard consonant this consonant recurs.
 
-### | tāy |
+### — | tāy |
 
 ## 359
 
 The word | tāy | does not admit this change.
 
-### + son + action
+### — + son + action
 
 ## 360
 
 This, after the word | makaṉ | in relation to this action with the word following it, undergoes the changes described above.
 
-### Soft consonants
+### —soft consonants
 
 ## 361
 
 There are words where the soft consonants alternate.³⁶
 
-### Non-case
+### —non case
 
 ## 362
 
 In non-case relations, it is said, there are no changes.
 
-### | r |
+### — | r |
 
 ## 363
 
 A | r | in the final position behaves like a | y | in the same position.
 
-### + four words
+### —+ four words
 
 ## 364
 
 In the words | ār |, | vetir |, | cār | and | pīr | the insertion of the soft consonant takes place.
 
-### + | kāḻ |
+### —+ | kāḻ |
 
 ## 365
 
