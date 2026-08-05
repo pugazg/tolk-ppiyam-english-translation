@@ -55,13 +55,19 @@ The initial sound in | oṉ | takes the change indicated earlier. In the place o
 
 When the word | āyiram | follows, the names of the first two numbers lose their | u |.
 
+## —
+
 ### 465
 
 It is not an error to keep the initial sounds lengthened.
 
+## —
+
 ### 466
 
 The consonant in | mūṉṟu | is replaced by | v |.
+
+## —
 
 ### 467
 
