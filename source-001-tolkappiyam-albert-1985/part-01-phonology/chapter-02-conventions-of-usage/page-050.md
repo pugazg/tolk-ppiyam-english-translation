@@ -24,7 +24,7 @@ The rest may occur there to name themselves.
 
 ### 78
 
-Only the eleven consonants | ñ |, | ṇ |, | n |, | m |, | ṉ |, | y |, | r |, | l |, | v |, | ḻ | and | ḷ | occur at the final position.
+Only the eleven consonants | ñ |, | ṇ |, | n |; | m |, | ṉ |, | y |, | r |, | l |, | v |, | ḻ | and | ḷ | occur at the final position.
 
 ## | ñ | —
 
@@ -48,4 +48,4 @@ Only the eleven consonants | ñ |, | ṇ |, | n |, | m |, | ṉ |, | y |, | r |,
 
 ### 82
 
-There are nine words of the non-personal gender where | ṉ | in the final position cannot be substituted by | m |.
+There are nine words of the non-personal gender where | ṉ | in the final position cannot be substituted by | m |
