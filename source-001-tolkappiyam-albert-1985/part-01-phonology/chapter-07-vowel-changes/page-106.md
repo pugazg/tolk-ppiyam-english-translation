@@ -11,48 +11,53 @@ status: verified
 sutras: 244-251
 translation_of: page-105
 ---
+
 # 7. A Chapter on the Changes in Usage with Vowels
+
+## — = tree
 
 ## 244
 
 The word | uti | denoting a tree takes the soft consonant.
 
+## —
+
 ## 245
 
-The word | puḷi | denoting a tree takes the empty morph | am |.
+The word | puli | denoting a tree takes the empty morph | am |.
 
-### | puḷi | in another sense
+## — X tree
 
 ## 246
 
-| puḷi | in the other meaning of the word takes the soft consonant.
+| puli | in the other meaning of the word takes the soft consonant.
 
-### Soft—hard
+## soft—hard
 
 ## 247
 
 The appearance of a hard consonant is not ruled out. It is to be inferred from the usage.
 
-### Days
+## —days
 
 ## 248
 
-Undoubtedly, when a word showing action follows such names of days | āṉ | appears between them.
+undoubtedly, when a word showing action follows such names of days | āṉ | appears between them.
 
-### Months
+## —months
 
 ## 249
 
 If it is the name of a month that precedes then the empty morph is | ikku |.
 
-### | ī |
+## — | ī |
 
 ## 250
 
 A final | ī | behaves like the final | ā |.
 
-### No hard consonant
+## —no hard consonant
 
 ## 251
 
-In the naming word | nī |, in the word that denotes human refuse and in the phonetically transferred²⁶ | mī | referring to the place, the hard consonant does not appear.
+In the naming word | nī |, in the word that denotes human refuse and in the phonetically transferred²⁶ | mi | referring to the place, the hard consonant does not appear.
