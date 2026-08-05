@@ -13,13 +13,19 @@ translation_of: page-161
 ---
 # 9. A Chapter on the Changes in Usage with the Shorter | u |
 
+## —
+
 ### 468
 
 The consonant in | aintu | is replaced by | y |.
 
+## —
+
 ### 469
 
 The shorter | u | in | āṟu | must disappear leaving there its consonant.
+
+## —
 
 ### 470
 
