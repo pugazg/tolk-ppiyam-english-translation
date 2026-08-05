@@ -20,6 +20,8 @@ translation_of: page-065
 
 The | i | in | ikku | disappears when this follows | i |.
 
+## —
+
 ### 128
 
 It is the same when it follows | ai |.
@@ -46,7 +48,7 @@ Scholars tell us that the same disappears when it is followed by the soft and th
 
 ### 132
 
-The case marker | in | does not take the empty morph | in |.
+The case marker | in | does not take the empty morph | in |
 
 ## Empty Morph’s position
 
