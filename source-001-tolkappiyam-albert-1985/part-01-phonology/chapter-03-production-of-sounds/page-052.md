@@ -42,7 +42,7 @@ The five vowels | i |, | ī |, | e |, | ē | and | ai | are produced in the same
 
 ### 87
 
-The five | u |, | o |, | ū |, | ō | and | au | are produced with the rounding of lips.
+The five | u |, | o | | ū |, | ō |, and | au | are produced with the rounding of lips.
 
 ## Allophones¹⁴
 
