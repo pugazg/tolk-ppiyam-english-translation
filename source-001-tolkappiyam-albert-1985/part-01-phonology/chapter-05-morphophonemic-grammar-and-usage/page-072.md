@@ -42,7 +42,9 @@ Scholars tell us that | y | and | ñ | may stand at the initial position in verb
 
 ### 148
 
-If these two consonants are at the final position of a word and the following word introduces any of those, that can be initial sounds, then there is no change provided it is a non-case relation.
+If these two consonants are at the final position of a word and the following word introduces any of thos, that can be initial sounds, then there is no changee provided it is a non-case relation.
+
+## —
 
 ### 149
 
