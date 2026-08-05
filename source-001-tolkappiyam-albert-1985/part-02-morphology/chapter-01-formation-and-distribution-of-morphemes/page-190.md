@@ -30,17 +30,19 @@ For a series of personal class and non-personal class nouns in versification the
 
 There are two classes of homonyms. Some take different predicates; some take the same.
 
-## —— + different verb
+## ——+ different verb
 
 ### 53
 
 Of these the meaning of the homonyms that take different verbs is known by the use of these verbs and the words that go with them in the context.
 
-## —— + same verb
+## ——+ same verb
 
 ### 54
 
 If the same verb is used then distinctions must be made with the help of proper adjuncts.
+
+## ——
 
 ### 55
 
