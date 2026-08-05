@@ -32,19 +32,19 @@ The eighteen phonemes with | ṉ | at the end of the series are called consonant
 
 The quantity of the vowel is not altered even when it is produced along with the consonant.
 
-## —; a consonant
+## —: a consonant
 
 ### 11
 
 A consonant has half a measure.
 
-## —; the three sounds
+## —: the three sounds
 
 ### 12
 
 Those three dependent occurrences also have half a measure each.
 
-## —; the shorter | m |
+## —: the shorter | m |
 
 ### 13
 
