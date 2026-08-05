@@ -30,7 +30,7 @@ The shorter | i | appears at the places where words join and this will be discus
 
 ### 36
 
-The shorter | u | occurs at the final position along with the six hard consonants if these occur after one long phoneme and after a string of more than one.
+The shorter | u | occurs at the final position along with the six hard consonants if the six occur after one long phoneme and after a string of more than one.
 
 ## — at word combinations
 
@@ -44,11 +44,11 @@ In the combination of words too it is shortened and this will be discussed along
 
 The | āytam | formed with the dots occurs in a word after short phonemes and before the six hard vowel-consonants.
 
-## Final position
+## Final position—
 
 ### 39
 
-A realization of this sound occurs at the final position in the first word in a combination.
+A realization of this sound occurs at the final position in the first word in a combination,
 
 ## The lengthened—
 
