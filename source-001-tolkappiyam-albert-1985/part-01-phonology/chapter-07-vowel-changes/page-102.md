@@ -11,53 +11,58 @@ status: verified
 sutras: 227-235
 translation_of: page-101
 ---
+
 # 7. A Chapter on the Changes in Usage with Vowels
 
-### | a | + | a |
+## | ā | + | a |
 
 ## 227
 
-| a | following a short phoneme or as a one letter word takes | a |.
+| ā | following a short phoneme or as a one letter word takes | a |.
+
+## —
 
 ## 228
 
 This | a | does not follow the word | irā |.
 
-### | attu |
+## | ā |
 
 ## 229
 
 The word | nilā | takes | attu |.
 
-### Tree names
+## Tree names
 
 ## 230
 
 The three names of trees | yā |, | piṭā | and | taḷā | take the soft consonant.
 
+## —
+
 ## 231
 
 It is not wrong even if the hard consonants occur.
 
-### Three nouns
+## Three nouns
 
 ## 232
 
-The three nouns, | mā | naming a tree, | ā | and | mā | behave in the same manner. | a | and the hard consonants do not occur together. | ā | and | mā | take | n |.
+The three nouns, | mā | naming a tree, | ā | and | mā | behave in the same manner. | a | and the hard consonants do not occur together. | ā | and | mā | take | ṉ |.
 
-### | āṉ | + | a |
+## | a | + | ṉ |
 
 ## 233
 
 There are three places where the consonant | ṉ | in | āṉ | stays with | a |.
 
-### | ā | +
+## | ā | +
 
 ## 234
 
 When | pī | follows | ā | the | p | may recur and the | ī | may be shortened.
 
-### | ā | shortened
+## | ā | shortened
 
 ## 235
 
