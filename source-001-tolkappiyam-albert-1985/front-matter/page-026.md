@@ -30,5 +30,5 @@ Thus learning this system of transliteration is very important.
 | 9 | ஒ | o |
 | 10 | ஓ | ō |
 | 11 | ஐ | ai |
-| 12 | ஔ | au |
-| 13 | ஃ | ḵ — “with a dash below” |
+| 12 | ஒள | au |
+| 13 | ஃ | ḵ with a dash below. |
