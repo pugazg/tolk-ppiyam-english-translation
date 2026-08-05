@@ -24,17 +24,25 @@ Different naming words indicating the same will not mean so if they take differe
 
 In enumeration it is not forbidden to count the first person noun with the non-personal class noun.
 
+## —
+
 ### 44
 
 Words derived from the word one, showing the gender difference will not be used in enumeration except in the first place.
+
+## —
 
 ### 45
 
 In the expression of a wish along with enumeration it is not forbidden to put together nouns of the different classes.
 
+## —
+
 ### 46
 
 When the indication of the different types of a common action is possible in verbs, we cannot use one of them only.
+
+## —
 
 ### 47
 
