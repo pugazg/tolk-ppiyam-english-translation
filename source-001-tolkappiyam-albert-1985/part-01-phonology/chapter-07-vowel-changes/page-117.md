@@ -11,6 +11,7 @@ status: verified
 notes: 21-24
 chapter_status: notes
 ---
+
 # Notes
 
 ## 21
@@ -31,4 +32,4 @@ As | r | helps the pronunciation of two vowels when they are said together in En
 
 ## 24
 
-“Kind hearted man” is a noun phrase where man is the head word; kind and hearted are premodifiers. The Tamil phrase thought of here is an equivalent to this English and so in translation “premodifier in a noun phrase” is used. Again as pointed out in 22 the commentators think of the function and not so much the—
+“Kind hearted man” is a noun phrase where man is the head word; kind and hearted are premodifiers. The Tamil phrase thought of here is an equivalent to this English and so in translation “premodifier in a noun phrase” is used. Again as pointed out in 22 the commentators think of the function and not so much the
