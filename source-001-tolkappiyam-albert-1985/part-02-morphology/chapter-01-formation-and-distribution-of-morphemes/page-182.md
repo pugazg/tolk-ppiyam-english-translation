@@ -30,13 +30,13 @@ The use of an adjective whose antonym cannot qualify the noun, is not customary 
 
 The elements are described with set phrases, showing their original nature.
 
-## —artificial—
+## ——artificial——
 
 ### 20
 
 Things that have been shaped are described with the word meaning ‘to become’.
 
-## The position of ‘to become’
+## The position of ‘to become’.
 
 ### 21
 
@@ -54,11 +54,13 @@ It is not a wrong usage if the word ‘to become’ occurs without the agent.
 
 If the gender is in doubt the plural of the class is used.⁵
 
+## ————
+
 ### 24
 
 To point out the proper gender ending for the two classes of words, the word `| uru |` or the name itself is used.
 
-## Syntactical value in preference to placement value
+## Syntactical value in preference to placement value.
 
 ### 25
 
