@@ -10,64 +10,66 @@ language: English
 status: verified
 sutras: 279-288
 translation_of: page-113
+numbering_note: scan prints 236 where the sequence indicates 286
 ---
+
 # 7. A Chapter on the Changes in Usage with Vowels
 
-### Tree
+## =tree
 
 ## 279
 
-| cē | the name of a tree behaves like | oṭu |, a tree.
+| cē | the name of a tree behaves like | oṭu | a tree.
 
-### + | iṉ |
+## + iṉ
 
 ## 280
 
 When it means | peṟṟam | it takes | iṉ | for its sequence.
 
-### | ai |
+## — | ai |
 
 ## 281
 
 A naming word with | ai | at the final position takes the recurrence of the consonant in case relations.
 
-### Demonstrative
+## Demonstrative
 
 ## 282
 
 The same is true of words in case relations with such endings and with an initial demonstrative.
 
-### + tree
+## +tree
 
 ## 283
 
-The three words naming trees | vicai |, | ñemai | and | namai | behave like | cē |, a tree.
+The three words naming trees | vicai |, | ñemai | and | namai | behave like | cē | a tree.
 
-### + | am |
+## + | am |
 
 ## 284
 
 The words | paṉai |, | arai | and | āvirai | are found to take | am |. Scholars tell us that the | ai | disappears except in | arai | and the consonants are kept.
 
-### + | attu |
+## + | attu |
 
 ## 285
 
 When | attu | follows | paṉai | the vowel | ai | disappears and | ā | rightly takes that place.
 
-### + | koṭi |
+## + | koṭi |
 
-## 286
+## 236 [printed; sequence indicates 286]
 
 If | koṭi | follows, the | ai | is kept and nothing prevents the recurrence of the hard consonant.
 
-### Months, days
+## Months, Days
 
 ## 287
 
 In months and days the same rule holds good.
 
-### | maḻai |
+## | maḻai |
 
 ## 288
 
