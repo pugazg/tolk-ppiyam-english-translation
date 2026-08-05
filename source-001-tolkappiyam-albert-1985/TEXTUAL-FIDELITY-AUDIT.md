@@ -7,12 +7,12 @@ This tracker records the second-pass visual comparison of every Markdown page ag
 
 ## Current status
 
-- Audited physical PDF pages: **1–176**
-- Audited count: **176 of 316**
-- Progress: **55.70%**
-- Remaining: **140 pages**
-- Corrected or expanded page records: **137**
-- Audited pages requiring no change: **39**
+- Audited physical PDF pages: **1–202**
+- Audited count: **202 of 316**
+- Progress: **63.92%**
+- Remaining: **114 pages**
+- Corrected or expanded page records: **156**
+- Audited pages requiring no change: **46**
 - Explicitly unresolved source locations: **2**
 
 ## Iterations
@@ -28,10 +28,11 @@ This tracker records the second-pass visual comparison of every Markdown page ag
 | 7 | 119–146 | Part I Chapter 8 — Changes in Usage with Consonants | Pass with corrections | 26 | 0 | `c198bd39d6f3f5ad085249945f000fbe1270200e` | [Iteration 07](textual-fidelity-audit/iteration-07-pages-119-146.md) |
 | 8 | 147–167 | Part I Chapter 9 — Changes in Usage with the Shorter u | Pass with corrections | 16 | 0 | `65c7d008190486885979a53520d53a7624400650` | [Iteration 08](textual-fidelity-audit/iteration-08-pages-147-167.md) |
 | 9 | 168–176 | Part I Research Topics, Index, blank page and Part II title page | Pass with corrections | 6 | 0 | `2cd0c628a736680fef7df35da729b051bf83950e` | [Iteration 09](textual-fidelity-audit/iteration-09-pages-168-176.md) |
+| 10 | 177–202 | Part II Chapters 1–2 | Pass with corrections | 19 | 0 | `e4d986755856cff89af3cd53e0c6a624004bfa17` | [Iteration 10](textual-fidelity-audit/iteration-10-pages-177-202.md) |
 
 ## Next audit unit
 
-**Part II Chapter 1 — கிளவியாக்கம் / Formation and Distribution of Morphemes**, PDF pages **177–194**.
+**Part II Chapter 3 — வேற்றுமை மயங்கியல் / A Chapter on the Case-marker Substitution**, PDF pages **203–212**.
 
 ## Completion rule
 
