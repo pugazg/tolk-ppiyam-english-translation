@@ -11,25 +11,25 @@ continuation: page-168
 
 ### 5. The Energy Basis of Sounds
 
-Basic reading: J. D. O’ Connor, _Phonetics_ 1973.
+Basic reading: J. D. O' Connor, _Phonetics_ 1973.
 
 ## II
 
-### 6. The Mathematical Basis of Tolkāppiyam
+### 6. The Mathematical Basis of Tolkāppiyam.
 
-Professor W. Mayer Eppler moved the German Academy to see this basis. Refer to Notes to C. R. Sankaran, “Tolkāppiyam and the Science of Phonemics,” _Tamil Culture_, IX-2 (1961), p. 117.
+Professor W. Mayer Eppler moved the German Academy to see this basis. Refer to Notes to C. R. Sankaran, “Tolkāppiyam and the Scince of Phonemics,” _Tamil Culture_, IX-2 (1961), p. 117.
 
-Basic reading: A. N. Whitehead, _Science and the Modern World_, 1925.
+Basic reading: A.N. Whitehead, _Science and the Modern World_, 1925.
 
-### 7. Concepts of Definitions and Descriptions based on Morphological and Functional Differences in Tolkāppiyam
+### 7. Concepts of Definitions and Descriptions based on Morphological and Functional Differences in Tolkāppiyam.
 
 That the subject is different from the noun in the sense in which Tolkāppiyam uses them gives rise to a whole discussion of such grammatical categories based on morphological, functional and place value situations as used in a noun, subject, the nominal.
 
 Basic reading: Christophersen, _Higher English Grammar_, 1952.
 
-### 8. Generative phonology and Tolkāppiyam
+### 8. Generative phonology and Tolkāppiyam.
 
-The principle of generativity and explicitness as in generative grammar and how derivations are made as infinite number of all possibilities can be applied to the phonology in Tolkāppiyam where so much has been rightly discussed on morphophonemic rules.
+The principle of generativity and explicitness as in generative grammar and how derivations are made as infinite number of all possibilities can be applied to the phonology in Tolkāpplyam where so much has been rightly discussed on morphophonemic rules.
 
 Basic reading: Schane Sanford, _Generative Phonology_, 1957.
 
