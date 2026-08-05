@@ -11,8 +11,6 @@ status: verified
 notes: 29-50
 ---
 
-# Notes
-
 ## 29
 
 For the use of this phrase see the discussion under note numbered 79.
