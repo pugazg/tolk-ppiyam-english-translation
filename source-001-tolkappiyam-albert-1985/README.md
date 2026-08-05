@@ -55,8 +55,8 @@ A separate second-pass visual audit is underway to test every Markdown record ch
 
 - Audited: **PDF pages 1–94**
 - Progress: **94 of 316 pages (29.75%)**
-- Corrected or expanded across Iterations 1–5: **64 page records**
-- Audited pages requiring no change: **30**
+- Corrected or expanded across Iterations 1–5: **65 page records**
+- Audited pages requiring no change: **29**
 - Remaining for this second-pass audit: **222 pages**
 
 See [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for cumulative status and iteration reports.
