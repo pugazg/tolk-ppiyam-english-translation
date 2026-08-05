@@ -15,6 +15,9 @@ A page-by-page archival transcription of **Dr. D. Albert's _Tolkāppiyam: Phonol
 source-001-tolkappiyam-albert-1985/
 ├── README.md
 ├── manifest.md
+├── FINAL-AUDIT.md
+├── TEXTUAL-FIDELITY-AUDIT.md
+├── textual-fidelity-audit/
 ├── contents-index-chapters/
 ├── front-matter/
 ├── part-01-phonology/
@@ -34,15 +37,23 @@ source-001-tolkappiyam-albert-1985/
 
 Each page file records the physical PDF page, printed page label where present, language, section and transcription status. Doubtful readings are explicitly marked rather than silently corrected.
 
-## Completion
+## Structural completion
 
-PDF pages **1–316** are transcribed and verified.
+All **316 physical PDF pages** have corresponding Markdown records.
 
 - **Part I — Phonology is complete**, including its nine chapters, Research Topics and Index.
 - **Part II — Morphology is complete**, including its nine chapters, Research Topics, Index and Reference to Terms.
 - **Back matter is complete**, including Errata and the final institute-publications page.
-- All **18 chapters** and all **316 physical pages** are complete.
+- All **18 chapters** are represented.
+- Missing physical page records: **0**.
 
-There are **0 pages remaining**.
+## Textual-fidelity audit
 
-See [`manifest.md`](source-001-tolkappiyam-albert-1985/manifest.md) for the final page audit and [`contents-index-chapters/`](source-001-tolkappiyam-albert-1985/contents-index-chapters/) for maintained navigation.
+A second-pass visual comparison of every Markdown page against the scan is underway.
+
+- Audited: **PDF pages 1–28**
+- Progress: **28 of 316 pages (8.86%)**
+- Corrected or expanded in Iteration 1: **17 page records**
+- Remaining for second-pass audit: **288 pages**
+
+See the [`textual-fidelity audit tracker`](source-001-tolkappiyam-albert-1985/TEXTUAL-FIDELITY-AUDIT.md), the [`structural extraction audit`](source-001-tolkappiyam-albert-1985/FINAL-AUDIT.md), the [`manifest`](source-001-tolkappiyam-albert-1985/manifest.md) and the [`maintained navigation`](source-001-tolkappiyam-albert-1985/contents-index-chapters/).
