@@ -31,6 +31,8 @@ Following a hard consonantal sequence and a soft consonantal sequence, the hard 
 
 These names of trees take the empty morph | am |.
 
+## —
+
 ### 417
 
 There are names of trees where the soft consonants are not replaced by the hard ones.
@@ -39,7 +41,7 @@ There are names of trees where the soft consonants are not replaced by the hard 
 
 ### 418
 
-There are some words among the words of two letters and the hard consonantal sequences which take | am |. This can be found from the usage.
+There are some words among the words of two letters and the hardconsonantal sequences which take | am |. This can be found from the usage.
 
 ## Empty morphs
 
