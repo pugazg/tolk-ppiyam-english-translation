@@ -11,11 +11,12 @@ status: verified
 notes: 24-29
 chapter_status: complete
 ---
+
 # Notes
 
 ## 24 — continued
 
-—structure of a phrase in their phrase adjectival adjunct because it goes with a noun and gives it additional meaning.
+structure of a phrase in their phrase adjectival adjunct because it goes with a noun and gives it additional meaning.
 
 ## 25
 
@@ -23,9 +24,9 @@ This again is an intrusive as in 23 but it is called a morpheme because it carri
 
 ## 26
 
-| mī | lends itself to very scholarly discussions.
+| mi | lends itself to very scholarly discussions.
 
-| mēl | meaning above with the transference from | ē | to | ī | along with the same deformation and transference from a place following a noun to preceding the noun may have resulted in this change. However we should also remember that words, morphemes and phonemes may be even due to freak formation and corruption.
+| mēl | meaning above with the transference from | e | to | ī | along with the same deformation and transference from a place following a noun to preceding the noun may have resulted in this change. However we should also remember that words, morphemes and phonemes may be even due to freak formation and corruption.
 
 ## 27
 
