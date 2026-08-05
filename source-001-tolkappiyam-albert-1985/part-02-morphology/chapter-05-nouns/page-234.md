@@ -14,26 +14,38 @@ translation_of: page-233
 
 # Tolkāppiyam in English
 
-## 189
+## ——
+
+### 189
 
 It goes with plural if it indicates respectability.
 
-## The context — 190
+## The context
+
+### 190
 
 If it is necessary to know what types of nouns these⁴⁹ are it should be understood in the context of the accompanying words.
 
-## Femine + masculine — 191
+## Femine+masculine
+
+### 191
 
 The noun in which the feminine gender word is followed by the opposite of it⁵⁰, takes the verb in the feminine gender.
 
-## `| ā |` → `| ō |` — 192
+## `| ā |` — `| ō |`
+
+### 192
 
 There are nouns where the `| ā |` changes to `| ō |` and such occurrences are found in poetry.
 
-## Inverse — 193
+## Inverse
+
+### 193
 
 Generic names of the Nucleus of Life⁵¹ in poetry will not go as personal class names: they go as the non-personal class names of the Regions.
 
-## 194
+## ——
+
+### 194
 
 This excludes those that are associated with the particular class.⁵²
