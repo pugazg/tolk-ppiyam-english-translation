@@ -24,13 +24,15 @@ When a certain measure is found wanting in a word the corresponding short vowel 
 
 ### 42
 
-| i | and | u | supply this addition after the two phonemes | ai | and | au |.
+| i | and | u | supply this additions after the two phonemes | ai | and | ou |.
 
 ## Free morphemes with single phonemes
 
 ### 43
 
 Only the seven long vowels occur each as one word.
+
+## —
 
 ### 44
 
@@ -58,7 +60,9 @@ Consonants may not follow the set patterns of clustering when they occur indepen
 
 ### 48
 
-| y |, | r | and | ḻ | are followed by | k |, | c |, | t |, | p |; | ṅ |, | ñ |, | n | and | m | forming double clusters.
+| y |, | r | and | ḻ | are followed by | k | | c | | t | | p |, | ṅ |, | ñ |, | n | and | m | forming double clusters.
+
+## —
 
 ### 49
 
