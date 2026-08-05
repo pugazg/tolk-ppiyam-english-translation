@@ -14,13 +14,17 @@ translation_of: page-043
 
 # 2. Conventions of Usage
 
+## —
+
 ### 50
 
 As the measures short and long are quantitative, in a continuum, combinations of short ones are measured as long ones.
 
+## —
+
 ### 51
 
-At the final position in | puḷḷum | a verse | ṉ | and | m | occur together as a double consonant cluster.
+At the final position in | polum | in verse | n | and | m | occur together as a double consonant cluster.
 
 ## Shorter | m |
 
@@ -28,21 +32,25 @@ At the final position in | puḷḷum | a verse | ṉ | and | m | occur together
 
 The | m | is shortened after the | ṉ |.
 
-## Phonemic length unaltered
+## Phonoemic length unaltered
 
 ### 53
 
 Scholars tell us that the measurement of a phoneme cannot be altered whether it is in a word or used in fresh combinations.
 
-## Diphthong
+## Dipthong
 
 ### 54
 
 | a | and | i | form | ai |.
 
+## —
+
 ### 55
 
 | a | and | u | form | au |.
+
+## —
 
 ### 56
 
