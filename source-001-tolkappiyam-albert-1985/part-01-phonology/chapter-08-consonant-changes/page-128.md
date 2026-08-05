@@ -13,23 +13,23 @@ translation_of: page-127
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### Empty morph
+### —empty morph
 
 ## 330
 
 In case relations two of these take the empty morph | akku |.
 
-### Shortened
+### —shortened
 
 ## 331
 
 The | m | is shortened when | v | follows it.
 
-### Days + morph
+### — days + morph
 
 ## 332
 
-As mentioned earlier, scholars tell us that those names of days take the empty morph | attu | followed by | āṉ | and others; and the consonant disappears.
+As mentioned earlier, sholars tell us that those names of days take the empty morph | attu | followed by | āṉ | and others, and the consonant disappears.
 
 ### | ṉ |
 
@@ -37,32 +37,32 @@ As mentioned earlier, scholars tell us that those names of days take the empty m
 
 In case relations the | ṉ | in the final position becomes | ṟ | when it is followed by a hard consonant.
 
-### Certain words
+### —certain words
 
 ## 334
 
-Scholars tell us that | maṉ |, | ciṉ |, | āṉ |, | īṉ |, | piṉ |, | muṉ | and the premodifier in a verbal phrase behave in the same manner.
+Scholars tell us that | maṉ |, | ciṉ |, | āṉ | | īṉ |, | piṉ |, | muṉ | and the premodifier in a verbal phrase behave in the same manner.
 
-### A prefix
+### — a prefix
 
 ## 335
 
-It is said that | vayiṉ | with the demonstrative or the | e | as a prefix behaves in the same manner.
+It is said that | vayiṉ | with the demonstrative of the | e | as a prefix behaves in the same manner.
 
-### | kuyiṉ |
+### — | kuyiṉ |
 
 ## 336
 
 The morpheme | kuyiṉ | remains without change.
 
-### + tree
+### — + tree
 
 ## 337
 
-When | ekiṉ | denotes a tree it behaves like | āṇ |, a tree.
+When | ekiṉ | denotes a tree it behaves like | āṇ | a tree.
 
-### | ekiṉ |
+### — | ekiṉ |
 
 ## 338
 
-| ekiṉ | denoting other things takes | a | and naturally the hard consonant should recur.
+| ekiṉ | denoting other things taeks | a | and naturally the hard consonant should recur.
