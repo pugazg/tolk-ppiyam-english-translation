@@ -10,7 +10,7 @@ continuation: page-014
 
 ## III. The Letter: Phonemic Representation
 
-Tolkāppiyam uses the Tamil word | eḻuttu | at the very first and this can be replaced by the word letter in English. Letter actually, represented in the English tradition too a name, a symbol and a sound value. Quid littera vocatur utem set recta linea curua an motunda pronuntiatio, said Remigius of Auxerre of 10th Century.⁷ Donatue wrote in his _Ars Grammatica_ “Accidunt uni cuique litterae tria: nomen figura potestas.”⁸
+Tolkāppiyam uses the Tamil word | eḻuttu | at the very first and this can be replaced by the word letter in English. Letter actually, represented in the English tradition too a name, a symbol and a sound value. Quid littera vocatur utrem set recta linea curua an motunda pronuntiatio, said Remigius of Auxerre of 10th Century.⁷ Donatue wrote in his _Ars Grammatica_ “Accidunt uni cuique litterae tria: nomen figura potestas.”⁸
 
 In Tamil too, the word | eḻuttu | meant all the three, a name (nomen), a symbol (figure) and a sound value (potestas). Happily this word etymologically names the act of production of sound as well as the act of committing to writing. Scholars had to rediscover the first sense for the Tamils of today when writing seems to be a thing of sophistication as distinctive from speech. For the English too a letter is taken to mean now a grapheme, a letter on the alphabet.
 
