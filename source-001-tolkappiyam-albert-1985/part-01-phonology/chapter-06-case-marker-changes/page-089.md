@@ -9,6 +9,7 @@ chapter_english: A Chapter on the Changes in Usage with Case Markers
 language: Tamil
 status: verified
 sutras: 189-195
+numbering_note: scan prints 19, where the sequence indicates 192
 ---
 
 # 6. உருபியல்
@@ -31,7 +32,7 @@ sutras: 189-195
 
 உயர்திணை யாயின் நம்மிடை வருமே.
 
-## 192
+## 19, [printed; sequence indicates 192]
 
 எல்லாரு மென்னும் படர்க்கை யிறுதியும்  
 எல்லீரு மென்னும் முன்னிலை யிறுதியும்  
