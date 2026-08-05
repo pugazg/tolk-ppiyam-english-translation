@@ -30,13 +30,13 @@ Consonants without the vowels do not occur at the initial position.
 
 ### 61
 
-The five consonants | k |, | t |, | n |, | p | and | m | can occur at the initial position in combination with all the vowels.
+The five consonants | k |, | t |, | n |, | p | and | m | can occur at the initial position in combination withall the vowels.
 
 ## | c | + —
 
 ### 62
 
-| c | follows the same rule except when in combination with | ai |, | au |.
+| c | follows the same rule except when in combination with | a |, | ai | and | au |.
 
 ## | v | + —
 
