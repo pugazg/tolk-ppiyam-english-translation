@@ -10,7 +10,7 @@ continuation: continues_from_page_004_and_on_page_006
 
 ## An Introduction — continued
 
--tion of Tolkāppiyam. His list appended at the end of this book justifies the claim of this insight.
+tion of Tolkāppiyam. His list appended at the end of this book justifies the claim of this insight.
 
 Another pitfall this translator has avoided is using in transliteration profusely the very Tamil words in the body of the verses. This, I know, disturbs the English reader. This is a very useful exercise for the learner of the language but does not help in the same plain the linguist-researcher. While the Tamil reader reads the English letters of the alphabet and makes out the shape and string of equivalents because of his previous knowledge of Tamil, the English reader who has no easy familiarity with Tamil finds it a great hurdle and so this translation avoids the transliterated Tamil words and uses them only when the very word or morpheme is kept in discussion. This seems to be a great advantage. When Ilakkuvanār said after Tolkāppiyam:
 
@@ -25,4 +25,4 @@ Kamil Zvelebil’s translation has appeared upto Morphology: Chapter 2 - On case
 
 _[Continued on PDF page 6.]_
 
-[^1]: The diacritic after “A” is faint in the scan; the reading is retained as `Aḵṟiṇai` with this uncertainty recorded.
+[^1]: The character after “A” is faint and damaged in the scan; the reading is retained as `Aḵṟiṇai` with this uncertainty recorded.
