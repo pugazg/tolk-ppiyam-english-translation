@@ -53,10 +53,10 @@ All **18 chapters**, every supporting section and every physical page of the sou
 
 A separate second-pass visual audit is underway to test every Markdown record character by character against the scan.
 
-- Audited: **PDF pages 1–202**
-- Progress: **202 of 316 pages (63.92%)**
-- Corrected or expanded across Iterations 1–10: **156 page records**
-- Audited pages requiring no change: **46**
-- Remaining for this second-pass audit: **114 pages**
+- Audited: **PDF pages 1–236**
+- Progress: **236 of 316 pages (74.68%)**
+- Corrected or expanded across Iterations 1–11: **189 page records**
+- Audited pages requiring no change: **47**
+- Remaining for this second-pass audit: **80 pages**
 
 See [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for cumulative status and iteration reports.
