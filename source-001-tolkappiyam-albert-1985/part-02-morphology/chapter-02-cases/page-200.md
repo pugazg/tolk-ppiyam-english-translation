@@ -24,7 +24,7 @@ The case marker called `| iṉ |` is the fifth. It shows: This is the relation t
 
 ### 76
 
-The case marker called `| atu |` is the sixth. It expresses subjective and objective relations. Scholars tell us that this shows relations with the words nature, possession, relationship, kinship, action, maturity, occupation, instrument, association, document; capital, parts of the unit, group, composition, state, residence and such categories of relations.
+The case marker called `| atu |` is the sixth. It expresses subjective and objective relations. Scholars tell us that this shows relations with the words nature, possession, relationship, kinship, action, maturity, occupation, instrument,association, document; capital, parts of the unit, group, composition, state, residence and such categories of relations.
 
 ## Case seven
 
