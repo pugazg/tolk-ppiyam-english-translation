@@ -38,7 +38,7 @@ The vowel appears at the place after the consonant.⁹
 
 | ṅ |, | ñ |, | ṇ |, | n |, | m | and | ṉ | are the soft sounds.
 
-## Medial Consonants
+## Medial Consonauts
 
 ### 21
 
@@ -54,11 +54,11 @@ These eighteen consonants form clusters in two ways, either each with itself or 
 
 ### 23
 
-The consonants | ṭ |, | r |, | ḻ | and | ḷ | are followed by | k |, | c | and | p |.
+The consonants | ṭ |, | ṟ |, | l | and | ḷ | are followed by | k |, | c | and | p |.
 
 ### 24
 
-Of these four | ḻ | and | ḷ | can also be followed by | y | and | v |.
+Of these four | l | and | ḷ | can also be followed by | y | and | v |.
 
 ### 25
 
