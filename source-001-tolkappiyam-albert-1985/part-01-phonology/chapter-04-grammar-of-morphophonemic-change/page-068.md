@@ -20,7 +20,7 @@ translation_of: page-067
 
 It is understood that the consonant that precedes the two words | attu | and | vaṟṟu | disappear, and the hard consonants that follow them are doubled.
 
-## Three more empty morphs
+## Three more empty morphs.
 
 ### 135
 
@@ -32,9 +32,13 @@ It is understood that the consonant that precedes the two words | attu | and | v
 
 Of these | karam | and | kān | are not added to long phonemes.
 
+## —
+
 ### 137
 
 These three morphs are known to be added to the short phonemes.
+
+## —
 
 ### 138
 
@@ -50,7 +54,7 @@ A vowel disappears when it follows a final consonant and merges with that conson
 
 ### 140
 
-When the consonant frees itself from the vowel it receives its own form.
+When the cansonant frees itself from the vowel it receives its own form.
 
 ## The intrusive consonant
 
