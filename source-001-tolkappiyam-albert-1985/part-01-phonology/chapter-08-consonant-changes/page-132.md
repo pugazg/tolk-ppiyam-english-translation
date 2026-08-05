@@ -13,41 +13,43 @@ translation_of: page-131
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### Proper name
+### —proper name
 
 ## 348
 
 When such a proper name is followed by the relational word | tantai | the consonant part of the initial sound in this word disappears leaving the | a | and in the proper name the | aṉ | disappears leaving the consonant there.
 
+### —
+
 ## 349
 
 | ātaṉ | and | pūtaṉ | take the changes described above. Besides this their consonants as well as the | a | disappear.
 
-### Modifier
+### —modifier
 
 ## 350
 
 If there is a premodifier these changes do not occur.
 
-### Names
+### —names
 
 ## 351
 
 When children’s names are specified in a repetitive series, as | aṉ | disappears in these nouns leaving the consonant, the empty morph | am | may appear.
 
-### Proper names
+### —proper names
 
 ## 352
 
 The proper names | tāṉ |, | pēṉ | and | kōṉ | undergo no change in such occurrences.³⁵
 
-### Case
+### —case
 
 ## 353
 
 Names | tāṉ | and | yāṉ | take changes as they do with case markers.
 
-### Non-case
+### —non case
 
 ## 354
 
