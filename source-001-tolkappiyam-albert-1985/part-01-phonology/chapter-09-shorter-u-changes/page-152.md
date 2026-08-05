@@ -61,7 +61,7 @@ The utterance with | yā | may remain without a change.
 
 Those four³⁸ utterances do not change.
 
-## —exists
+## =exists
 
 ### 431
 
