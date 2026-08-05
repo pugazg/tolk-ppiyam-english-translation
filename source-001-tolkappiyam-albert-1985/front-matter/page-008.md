@@ -12,7 +12,7 @@ status: verified
 | No. | Section | Page |
 |---:|---|---:|
 | 1 | The work | vi |
-| 2 | An Approach to Tolkāppiyam | viii |
+| 2 | An Approach to Tolkāppiyam | vii |
 | 3 | A Translation into Tamil | xvii |
 | 4 | The User and the Critic | xxi |
 | 5 | A System of Transliteration | xxiii |
@@ -30,7 +30,7 @@ status: verified
 | 6 | A Chapter on the Changes in Usage with Case-markers | 59 |
 | 7 | A Chapter on the Changes in Usage with Vowels | 69 |
 | 8 | A Chapter on Changes in Usage with Consonants | 93 |
-| 9 | A Chapter on the Changes in Usage with the Shorter `|u|` | 121 |
+| 9 | A Chapter on the Changes in Usage with the Shorter `| u |` | 121 |
 | 7 | Research Topics | 141 |
 | 8 | Index | 144 |
 | 9 | Tolkāppiyam in English | 149 |
