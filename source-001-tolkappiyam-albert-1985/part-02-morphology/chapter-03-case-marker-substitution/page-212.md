@@ -16,25 +16,37 @@ chapter_status: complete
 
 # Tolkāppiyam in English
 
-## Metonymy — 110
+## Metonymy
+
+### 110
 
 Metonymy occurs when the whole is used for the part or the part is used for the whole, the produce is called after the place of production, or when an object is named after its quality, the produce is named after the material of which it is made and in noun compounds or when the work is called by the name of the author.
 
-## Two ways — 111
+## Two ways
+
+### 111
 
 These may point out to objects of contiguity or distant objects by way of comparison. Since they have these qualities they must be understood clearly.
 
-## Markers — 112
+## Markers
+
+### 112
 
 They are to be considered very much like the case markers.
 
-## Measures, weights — 113
+## Measures, weights
+
+### 113
 
 The learned tell us that names of measures and weights should be included in this list.
 
-## Other occurrences — 114
+## Other occurrences
+
+### 114
 
 If there are other occurrences they may be understood by what are described here.
+
+---
 
 ## Notes
 
