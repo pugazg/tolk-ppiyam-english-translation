@@ -20,6 +20,8 @@ translation_of: page-073
 
 | t | and | n | become | ṟ | and | ṉ | if they follow the consonants | l | and | ṇ |.
 
+## —
+
 ### 151
 
 They become | ṭ | and | ṇ | after | ṇ | and | ḷ |.
@@ -29,6 +31,8 @@ They become | ṭ | and | ṇ | after | ṇ | and | ḷ |.
 ### 152
 
 The final vowel or consonant in a second personal verb is realized with or without change when the hard consonants are at the initial position in the following word.
+
+## —
 
 ### 153
 
