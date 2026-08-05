@@ -20,13 +20,19 @@ translation_of: page-079
 
 | e | is the proper empty morph for all the words which mark measures, weights and numbers with vowels or consonants in the final position followed by terms of the particular units.
 
+## —
+
 ### 166
 
 This empty morph is not realized when the word | arai | occurs in the sense of a portion.
 
+## —
+
 ### 167
 
 If the word | kuṟai | follows¹⁸ then the case marker rules apply.
+
+## —
 
 ### 168
 
@@ -42,7 +48,7 @@ If the word | kuṟai | follows¹⁸ then the case marker rules apply.
 
 ### 170
 
-| Paṉṉai | and | kā | marking measures and weights respectively are found to take | iṉ |.
+| Pannai | and | kā | marking measures and weights respectively are found to take | iṉ |.
 
 ## Initial sounds
 
