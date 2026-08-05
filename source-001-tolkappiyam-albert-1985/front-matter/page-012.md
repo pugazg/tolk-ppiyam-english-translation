@@ -18,6 +18,6 @@ What are the implications of these two approaches, one a theory of language the 
 
 For example chapter 1 gives us the Grammar and chapter 2 the usages and they are differently worded. Both the terms assert this differences. Many difficulties arose for the commentators because they failed to see this distinction between Grammar and grammar. Dr. S. V. Subramanian summarises the difficulties of the early commentators briefly in his _Comparative Study of Grammars_⁴. Omissions of usages, inclusion of hypothetical idealizations and repetitions which they point out as difficulties, deficiencies or dismiss as interpolations in Tolkāppiyam are really the strengths of this monumental work. This becomes clear only when you see what is scientifically meant by theory, data and accounting and their interrelation.
 
-If you co-relate the verses in chapter 1 with those in the next you will see that the first in on Grammar is this helpful sense and the second is on the Usage.
+If you co.relate the verses in chapter 1 with those in the next you will see that the first in on Grammar is this helpful sense and the second is on the Usage.
 
 T—(ii)
