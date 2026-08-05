@@ -15,6 +15,6 @@ status: verified
 
 **Dr. D. ALBERT**
 
-[Seal of the International Institute of Tamil Studies]
+[Institutional seal. English legend: “INTERNATIONAL INSTITUTE OF TAMIL STUDIES”. A Tamil legend is also present around the seal, but it is too small and faint for a confident diplomatic transcription from this scan.]
 
-[Library accession markings appear on the physical cover.]
+[Handwritten library accession or classification markings appear at the lower left. They are partially illegible and have not been guessed.]
