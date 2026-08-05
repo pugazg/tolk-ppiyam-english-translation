@@ -44,11 +44,11 @@ In | am | with the | m | at the final position, the | k |, | c | and | t | that 
 
 Scholars tell us that the same disappears when it is followed by the soft and the medial sounds.
 
-## | in | mutually exclusive
+## | iṉ | mutually exclusive
 
 ### 132
 
-The case marker | in | does not take the empty morph | in |
+The case marker | iṉ | does not take the empty morph | iṉ |
 
 ## Empty Morph’s position
 
