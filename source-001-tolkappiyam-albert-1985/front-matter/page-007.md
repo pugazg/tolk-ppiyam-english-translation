@@ -16,4 +16,4 @@ scholars through English. English is the window of the modern world. This attemp
 **July 85**
 
 **சு. வே. சுப்பிரமணியன்**  
-**S. V. Subramanian**
+**S.V. Subramanian**
