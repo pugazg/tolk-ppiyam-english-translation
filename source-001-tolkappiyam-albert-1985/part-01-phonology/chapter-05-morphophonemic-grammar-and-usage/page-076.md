@@ -40,7 +40,7 @@ The occurrence of the case-marker along with the empty morph.
 
 The occurrence of the appropriate consonant in the place of an empty morph.
 
-The occurrence of the case-marker with personal clas nouns.
+The occurrence of the case-marker with personal class nouns.
 
 The occurrence of the case-marker with personal clas nouns that are used in the place of non-personal class.
 
