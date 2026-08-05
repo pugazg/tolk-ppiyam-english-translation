@@ -14,7 +14,7 @@ translation_of: page-077
 
 # 5. Conventions of Morphophonemic Grammar and Usage
 
-## | i |, | ai | in case relations
+## | i |, | ai | in case reiations
 
 ### 159
 
@@ -26,11 +26,11 @@ Nouns in noncase relations ending in | i | or | ai | have three posibilities of 
 
 It is said that there is the occurrence of hard consonant or its absence in positions where a word has the demonstrative initially and | i | in the final position, where an interrogative has | e | initially and | i | finally, where the lengthened part of a demonstrative is at the initial position with a final | ai | and where an interrogative has | yā | initially with a final | ai |.
 
-## Long, short vowels + Consonant
+## Loug, short vowels + Consonant
 
 ### 161
 
-The consonant that follows a long vowel disappears and if it is a short vowel then there is a recurrence.
+The copsonant that follows a long vowel disappears and if it is a short vowel then there is a recurrence.
 
 It is understood that these follow a regular pattern.
 
