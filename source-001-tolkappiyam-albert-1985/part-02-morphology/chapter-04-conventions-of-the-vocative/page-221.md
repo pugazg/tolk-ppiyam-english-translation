@@ -12,8 +12,6 @@ notes: 14-28
 chapter_status: complete
 ---
 
-# Notes
-
 ## 14
 
 The word driver which consists of the verb drive and the -er ending, will show us a description of this grammatical category in Tamil. Following faithfully the Tamil label `| viṉaiyāl aṇaiyum peyer |`, we use the phrase ‘noun where the verb governs its formation’. It can also be said that here the infinite becomes the stem of the noun formation. It can be explained as it is done in verse 71 that they are names formed suffixed to verbs. `| āṉ |` is the Tamil substitute of the English -er.
