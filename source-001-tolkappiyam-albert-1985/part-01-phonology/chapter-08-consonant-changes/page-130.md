@@ -13,37 +13,37 @@ translation_of: page-129
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### Names of social groups
+### —names of social groups
 
 ## 339
 
 All such naming words of social groups do not change as other names of social groups do.
 
-### Shift
+### —shift
 
 ## 340
 
 In the word | mīṉ | this may be replaced by the hard consonant.
 
-### | tēṉ |
+### — | tēṉ |
 
 ## 341
 
 If the word | tēṉ | is followed by a hard consonant either what is said above applies or, the hard consonant recurs. In the latter case the | ṉ | drops.
 
-### Soft
+### —soft
 
 ## 342
 
 The appearance of the soft consonant is not an error.
 
-### Final
+### —final
 
 ## 343
 
 When the soft consonant appears, the final phoneme may drop or it may not.
 
-### No change
+### —no change
 
 ## 344
 
@@ -53,7 +53,7 @@ When | iṟāl | follows, there is no change.
 
 ## 345
 
-| t | may appear there with its consonantal recurrence.
+| t | may appear there with its consonantal recurrence
 
 ### Four words
 
@@ -61,7 +61,7 @@ When | iṟāl | follows, there is no change.
 
 The four words | miṉ |, | piṉ |, | paṉ | and | kaṉ | behave like the gerunds.
 
-### | kaṉ |
+### — | kaṉ |
 
 ## 347
 
