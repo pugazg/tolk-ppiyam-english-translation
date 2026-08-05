@@ -13,37 +13,37 @@ translation_of: page-123
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### Tree
+### — = tree
 
 ## 314
 
-| illam |, the name of a tree, behaves like | vicai |, the tree.
+| illam | the name of a tree behaves like | vicai | the tree.
 
-### + soft
+### — + soft
 
 ## 315
 
 In all non-case relations this becomes soft.
 
-### + | kai |
+### — + | kai |
 
 ## 316
 
 When | akam | is followed by | kai | all phonemes except the initial | a | are dropped and there the soft consonant is inserted. The learned writer follows this pattern.
 
-### Retention
+### —retention
 
 ## 317
 
-When the word | ilam | is followed by | paṭu |, in verse this may be retained.
+When the word | ilam | is followed by | paṭu | in verse this may be retained.
 
-### Thousand
+### —thousand
 
 ## 318
 
 The phoneme at the final position in | āyiram | joins | attu | when a proper number follows them.
 
-### Premodifier
+### —premodifier
 
 ## 319
 
@@ -55,7 +55,7 @@ The same holds good even when there is a modifier.
 
 With names of measures and weights after it, it keeps the rules of case relations.
 
-### Personal pronouns
+### —personal pronouns
 
 ## 321
 
