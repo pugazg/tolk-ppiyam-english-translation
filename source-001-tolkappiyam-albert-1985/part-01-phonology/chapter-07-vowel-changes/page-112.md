@@ -11,61 +11,64 @@ status: verified
 sutras: 269-278
 translation_of: page-111
 ---
+
 # 7. A Chapter on the Changes in Usage with Vowels
 
-### | pū |
+## — | pū |
 
 ## 269
 
 This change does not happen in the case of the one name | pū |. There, even the hard consonant may occur.
 
-### + | ā |
+## — + | ā |
 
 ## 270
 
 The naming word | ū | joins | ā |.
 
-### + empty morph
+## — + empty morph
 
 ## 271
 
 The proper place where it may take the empty morph | akku | can be found from the usage.
 
-### + | iṉ |
+## — + | iṉ | +
 
 ## 272
 
 It is not wrong that | iṉ | appears inbetween in the two naming words | āṭūu | and | makaṭūu |.
 
-### | e |, | o |
+## | e |, | o |
 
 ## 273
 
 | e | and | o | do not take the final position in naming words except in the second person unless here it shows certainty and distinctiveness.
 
-### With—
+## with—
 
 ## 274
 
 The hard consonant described above does not occur with the | e | for certainty and the | o | for distinctiveness.
 
-### | ē |
+## — | ē |
 
 ## 275
 
 A final | ē | behaves like the final | ū |.
 
+## —
+
 ## 276
 
 When denoting contradiction, question or enumeration this hard consonant does not occur.
 
-### Case
+## —case
 
 ## 277
 
 It is the same in case relations too.
 
-### + | e |
+## — + | e |
 
 ## 278
 
