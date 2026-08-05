@@ -17,7 +17,7 @@ translation_of: page-157
 
 ### 449
 
-The same holds good when words with | k |, | c |, | t | and | p | at the initial position come to join.
+The same holds good when words with | k |, | c |, | t | and | p | at the initial position come to join,
 
 ## Eight
 
