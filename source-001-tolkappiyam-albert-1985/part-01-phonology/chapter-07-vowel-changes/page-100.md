@@ -11,50 +11,53 @@ status: verified
 sutras: 219-226
 translation_of: page-099
 ---
+
 # 7. A Chapter on the Changes in Usage with Vowels
 
-### Empty morph
+## —empty morph
 
 ## 219
 
-The word meaning child takes the empty morph | in |.
+The word meaning child takes the empty morph | iṉ |.
+
+## —
 
 ## 220
 
 It is not wrong if | attu | occurs there.
 
-### The many
+## —the many
 
 ## 221
 
 In words meaning the many, the sounds at the final position follow the same pattern of case relations.
 
-### | ā |
+## — | ā |
 
 ## 222
 
 | ā | at the final position behaves as | a | does in the same position.
 
-### Adjunct
+## —adjunct
 
 ## 223
 
 Scholars tell us that the premodifier in a verbal phrase follows the same pattern.
 
-### Appearance
+## —appearance
 
 ## 224
 
 In a compound of two words where the | um | is dropped | a | is inserted.
 
-### No change
+## —no change
 
 ## 225
 
 The words | ā |, | mā |, the vocatives, the interrogative | yā |, the ending of non-personal class plural forms, the non-semantic intrusive imperative form | miyā | and the interrogative used for making statements do not admit any change.
 
-### In case relations
+## In case relations
 
 ## 226
 
-The same holds good in case relations too.
+The same hold good in case relations too.
