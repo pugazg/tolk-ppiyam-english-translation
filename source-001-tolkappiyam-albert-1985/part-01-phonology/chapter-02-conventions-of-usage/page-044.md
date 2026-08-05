@@ -24,7 +24,7 @@ As the measures short and long are quantitative, in a continuum, combinations of
 
 ### 51
 
-At the final position in | polum | in verse | n | and | m | occur together as a double consonant cluster.
+At the final position in | polum | in verse | ṉ | and | m | occur together as a double consonant cluster.
 
 ## Shorter | m |
 
