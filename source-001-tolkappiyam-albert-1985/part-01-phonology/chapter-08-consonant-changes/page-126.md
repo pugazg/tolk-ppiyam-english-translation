@@ -13,49 +13,49 @@ translation_of: page-125
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### No change
+### —no change
 
 ## 322
 
 If these occur in non-case relations they undergo no change.
 
-### | ellām |
+### — | ellām |
 
 ## 323
 
 When used in non-case relations and case relations, the pronoun | ellām | follows the rules case markers follow; in non-case relations the empty morph is not inserted.
 
-### Soft consonant
+### —soft consonant
 
 ## 324
 
 The recurrence of the soft consonant here is not an error.
 
-### Personal class
+### —personal class
 
 ## 325
 
 If this refers to the personal class, the patterns of case marker changes hold good.
 
-### | num |
+### — | num |
 
 ## 326
 
 With the noun | num | the soft consonant recurs.
 
-### Non-case
+### —non-case
 
 ## 327
 
 When this is used in non-case relations the | u | drops and this consonantal part joins | ī |; | i | appears inbetween, while the final phoneme is replaced by the consonant | r | and any word that follows this takes no change.
 
-### Gerunds
+### ——gerunds
 
 ## 328
 
 These gerunds behave like the other gerunds.
 
-### Names
+### —names
 
 ## 329
 
