@@ -22,7 +22,7 @@ translation_of: page-055
 
 ### 98
 
-| v | is produced by the contact of the teeth and the lips.
+— | v | is produced by the contact of the teeth and the lips.
 
 ## — | y |
 
@@ -40,7 +40,7 @@ Though the six soft consonants have their places of production in the places ind
 
 ### 101
 
-The three sounds which are found to be dependent on other sounds may be taken to have less energy of production closely identified each with that of the primary sound of its combination, maintaining a realization of its own.
+The three sounds which are found to be dependent or which cannot occur on their own have their places of production closely identified each with that of the primary sound of its combination, maintaining a realisation of its own.
 
 ## A complete description
 
@@ -52,4 +52,4 @@ It is in the learned treatise we find a clear description of how the pulmonic ai
 
 ### 103
 
-Omitting such complete description I merely make statements about the way the phonemic air stream is shaped meaningfully into sounds.
+Omitting such complete description I merely make statements about the way the pulmonic air stream is shaped meaningfully into sounds.
