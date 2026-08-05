@@ -38,6 +38,8 @@ These remain unchang.d.
 
 Endings in numerals take | aṉ |.
 
+## —
+
 ### 200
 
 In all the numerals starting in one when used along with ten, the occurrence of | āṉ | is quite right. But there | aktu | disappears and the consonant | p | is kept.
@@ -58,6 +60,6 @@ Words showing directions when they are followed by the seventh case marker may o
 
 ### 203
 
-All words ending in a consonant or a vowel other than those discussed so far show, on a careful examination that they take case markers but not necessarily along with empty morphs.
+All words ending in a consonant or a vowel other than those discussed so far show, on a careful examinati n that they take case markers but not necessarily along with empty morphs.
 
 T—5
