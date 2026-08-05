@@ -16,7 +16,7 @@ notes: 12-14
 
 12. Scholars entered into long discussions about whether or not the head could be mentioned as one of the organs of speech. See, C. R. Ṣankaran, “Tolkappiyar and the Science of Phonemics”, _Tamil Culture_, IX-2 (1961), 117-130. Some come to the conclusion that lines 2, 3 and 4 of this verse in Tamil are interpolations as in the words of C. R. Sankaran, “It is not only erroneous but even ridiculously preposterous to state that the breath halts in the head to produce a phoneme at all!” (p. 120-121).
 
-    The original Tamil text reads perfectly all right if we read it to mean that the vocal organs teeth, lips, tongue, nose and palate are the places of production of sound and are in the head. The three areas are the head, the throat and the chest and the head encloses the five-the teeth, the lips, the tongue, the nos e and the palate.
+    The original Tamil text reads perfectly all right if we read it to mean that the vocal organs teeth, lips, tongue, nose and palate are the places of production of sound and are in the head. The three areas are the head, the throat and the chest and the head encloses the five-the teeth, the lips, the todgue, the nos e and the palate.
 
 13. I would like to ask the English reader, using this occasion, to see how carefully one has to read any English text where small words mean a lot. Here ‘in the same manner’ means as the other vowels are produced (Verse 84). The word “and” shows that in addition to this the effort for the close vowels is also made. Without the word “and” this sense of the double activity of the original verse will be lost. The English articles too should be read with great care in this translation.
 
