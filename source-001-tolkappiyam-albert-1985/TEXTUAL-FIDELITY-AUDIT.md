@@ -7,12 +7,12 @@ This tracker records the second-pass visual comparison of every Markdown page ag
 
 ## Current status
 
-- Audited physical PDF pages: **1–146**
-- Audited count: **146 of 316**
-- Progress: **46.20%**
-- Remaining: **170 pages**
-- Corrected or expanded page records: **115**
-- Audited pages requiring no change: **31**
+- Audited physical PDF pages: **1–167**
+- Audited count: **167 of 316**
+- Progress: **52.85%**
+- Remaining: **149 pages**
+- Corrected or expanded page records: **131**
+- Audited pages requiring no change: **36**
 - Explicitly unresolved source locations: **2**
 
 ## Iterations
@@ -26,10 +26,11 @@ This tracker records the second-pass visual comparison of every Markdown page ag
 | 5 | 85–94 | Part I Chapter 6 — Changes in Usage with Case Markers | Pass with corrections | 4 | 0 | `6d8b6c395658785e883ce4f152b036386303f343` | [Iteration 05](textual-fidelity-audit/iteration-05-pages-085-094.md) |
 | 6 | 95–118 | Part I Chapter 7 — Changes in Usage with Vowels | Pass with corrections | 24 | 0 | `13874d30fa6079560aa9336056fd0acecb8f1ed5` | [Iteration 06](textual-fidelity-audit/iteration-06-pages-095-118.md) |
 | 7 | 119–146 | Part I Chapter 8 — Changes in Usage with Consonants | Pass with corrections | 26 | 0 | `c198bd39d6f3f5ad085249945f000fbe1270200e` | [Iteration 07](textual-fidelity-audit/iteration-07-pages-119-146.md) |
+| 8 | 147–167 | Part I Chapter 9 — Changes in Usage with the Shorter u | Pass with corrections | 16 | 0 | `65c7d008190486885979a53520d53a7624400650` | [Iteration 08](textual-fidelity-audit/iteration-08-pages-147-167.md) |
 
 ## Next audit unit
 
-**Part I Chapter 9 — குற்றியலுகரப் புணரியல் / A Chapter on the Changes in Usage with the Shorter u**, PDF pages **147–167**.
+**Part I Research Topics, Part I Index, blank archival page and Part II title page**, PDF pages **168–176**.
 
 ## Completion rule
 
