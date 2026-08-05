@@ -26,6 +26,8 @@ If words have the following six phonemes | a |, | ā |, | u |, | ū |, | e | and
 
 Nouns denoting the many with | a | at the final position take | vaṟṟu | without fail.
 
+## —
+
 ### 176
 
 The interrogative | yā | does not fail to follow this usage either.
@@ -41,6 +43,8 @@ In words with an initial demonstrative the following | u | takes | aṉ | making
 ### 178
 
 Words with an initial demonstrative and a final | ai | take | vaṟṟu |.
+
+## —
 
 ### 179
 
