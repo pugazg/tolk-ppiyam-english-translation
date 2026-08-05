@@ -38,7 +38,7 @@ The five phonemes | a |, | i |, | u |, | e | and | o | have each one measure and
 
 The seven sounds | ā |, | ī |, | ū |, | ē |, | ai |, | ō | and | au | take two measures each and they are called long phonemes.
 
-## —; three measure.
+## —: three measure.
 
 ### 5
 
