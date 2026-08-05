@@ -53,8 +53,8 @@ A second-pass visual comparison of every Markdown page against the scan is under
 
 - Audited: **PDF pages 1–94**
 - Progress: **94 of 316 pages (29.75%)**
-- Corrected or expanded across Iterations 1–5: **64 page records**
-- Audited pages requiring no change: **30**
+- Corrected or expanded across Iterations 1–5: **65 page records**
+- Audited pages requiring no change: **29**
 - Remaining for second-pass audit: **222 pages**
 
 See the [`textual-fidelity audit tracker`](source-001-tolkappiyam-albert-1985/TEXTUAL-FIDELITY-AUDIT.md), the [`structural extraction audit`](source-001-tolkappiyam-albert-1985/FINAL-AUDIT.md), the [`manifest`](source-001-tolkappiyam-albert-1985/manifest.md) and the [`maintained navigation`](source-001-tolkappiyam-albert-1985/contents-index-chapters/).
