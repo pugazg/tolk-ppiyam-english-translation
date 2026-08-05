@@ -35,11 +35,11 @@
 - Errata and final publications page: `back-matter/page-NNN.md`
 - Maintained contents, index and chapter navigation: `contents-index-chapters/`
 
-See [`manifest.md`](manifest.md) for the page manifest, [`FINAL-AUDIT.md`](FINAL-AUDIT.md) for the final extraction audit and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
+See [`manifest.md`](manifest.md) for the page manifest, [`FINAL-AUDIT.md`](FINAL-AUDIT.md) for the structural extraction audit, [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for the ongoing scan-to-text audit and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
 
-## Completion
+## Structural completion
 
-PDF pages **1–316** are transcribed and verified.
+All PDF pages **1–316** have page-level Markdown records.
 
 Completed:
 
@@ -47,4 +47,15 @@ Completed:
 - **Part II — Morphology:** all nine chapters, Research Topics, Index and Reference to Terms
 - **Back matter:** Errata and the International Institute of Tamil Studies publications list
 
-All **18 chapters**, every supporting section and every physical page of the source volume are complete. There are **0 pages remaining**.
+All **18 chapters**, every supporting section and every physical page of the source volume are structurally complete. There are **0 pages missing**.
+
+## Textual-fidelity audit
+
+A separate second-pass visual audit is underway to test every Markdown record character by character against the scan.
+
+- Audited: **PDF pages 1–28**
+- Progress: **28 of 316 pages (8.86%)**
+- Corrected or expanded in Iteration 1: **17 page records**
+- Remaining for this second-pass audit: **288 pages**
+
+See [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for cumulative status and iteration reports.
