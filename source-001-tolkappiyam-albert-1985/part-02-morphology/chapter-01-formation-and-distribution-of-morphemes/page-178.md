@@ -54,4 +54,4 @@ The consonant `| ḷ |` shows the feminine.
 
 ### 7
 
-The consonant `| r |`, the final `| pa |` and `| mār |`—these three appear to show the personal class plural words.
+The consonant `| r |`, the final `| pa |` and `| mār |` | these three appear to show the personal class plural¹ words.
