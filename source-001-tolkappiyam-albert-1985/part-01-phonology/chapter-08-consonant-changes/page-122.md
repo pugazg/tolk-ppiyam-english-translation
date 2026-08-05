@@ -13,19 +13,19 @@ translation_of: page-121
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### Tree
+### = tree
 
 ## 305
 
 The word | āṇ |, a tree, behaves like | arai |, a tree.
 
-### + verb
+### — + verb
 
 ## 306
 
-In verse, the word | viṇ | denoting the sky when followed by a verb takes the empty morph | attu |.
+In verse, the words | viṇ | denoting the sky when followed by a verb takes the empty morph | attu |.
 
-### Gerunds
+### —gerunds
 
 ## 307
 
@@ -37,31 +37,31 @@ All gerunds with a final | ṇ | behave like gerunds with a final | ñ |.
 
 The names of social classes go without any change.
 
-### Food
+### —=food
 
 ## 309
 
 In non-case relations, the word | eṇ | for food may behave as in case relations.
 
-### Gerund
+### + gerund
 
 ## 310
 
 The gerund | muraṇ | follows the pattern described above.
 
-### | m |
+### — | m |
 
 ## 311
 
 If the consonant | m | stands at the final position in case relations, it disappears and the hard consonant recurs.
 
-### + | a |, | ā |
+### — + | a |, | ā |
 
 ## 312
 
 If | a | or | ā | is in the initial position of the following word this³² final | a | may be lengthened.
 
-### Soft
+### —soft
 
 ## 313
 
