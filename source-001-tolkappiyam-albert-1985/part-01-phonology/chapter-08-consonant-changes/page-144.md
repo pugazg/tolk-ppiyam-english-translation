@@ -13,25 +13,25 @@ translation_of: page-143
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### Gerunds
+### —gerunds
 
 ## 402
 
 All these gerunds behave like the other gerunds.
 
-### = | veyil |
+### — = | veyil | .
 
 ## 403
 
 The word | iruḷ | behaves like | veyil |.
 
-### Two words
+### —two words
 
 ## 404
 
 | puḷ | and | vaḷ | behave like the gerunds.
 
-### Name
+### —name
 
 ## 405
 
