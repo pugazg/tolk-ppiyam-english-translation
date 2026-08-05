@@ -11,45 +11,52 @@ status: verified
 sutras: 236-243
 translation_of: page-103
 ---
+
 # 7. A Chapter on the Changes in Usage with Vowels
 
-### | i |
+## — | i |
 
 ## 236
 
 In a noun with a final | i | in case relations the consonant is introduced.
 
-### Categories
+## —categories
 
 ## 237
 
 | ini | and | aṇi | denoting time and place, the premodifier in a verbal phrase and the demonstrative behave in the same manner.
 
+## —
+
 ## 238
 
-The final | i | in the premodifier in a verbal phrase, | iṉṟi |, used to change to | u | traditionally in verse.
+The final | i | in the premodifier of a verbal phrase, | iṉṟi | used to change to | u | traditionally in verse.
 
-### Demonstrative
+## —demonstrative
 
 ## 239
 
 This demonstrative behaves in the manner pointed out earlier.
 
+## —
+
 ## 240
 
 If | tūṇi | is followed by the word | patakku | the case relations discussed earlier apply.
+
+## —
 
 ## 241
 
 When the word | nāḻi | is followed by | uri | the final | i | and the consonant drop and the consonant | ṭ | appears at this place.
 
-### Empty morphs
+## ——empty morphs
 
 ## 242
 
 | paṉi | when denoting a season takes the empty morphs | attu | and | iṉ | in case relations.
 
-### Elements
+## — = elements
 
 ## 243
 
