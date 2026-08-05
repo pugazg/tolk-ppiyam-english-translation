@@ -10,58 +10,59 @@ language: English
 status: verified
 sutras: 384-392
 translation_of: page-139
+numbering_note: scan prints 381 where sequence indicates 388
 ---
 # 8. A Chapter on the Changes in Usage with Consonants
 
-### | ḻ |
+### — | ḻ |
 
 ## 384
 
 A | ḻ | at the final position behaves like a | r | in the same position.
 
-### + | kōl |
+### — + | kōl |
 
 ## 385
 
-When the words | tāḻ | and | kōl | join the appearance of | akku | inbetween is considered proper.
+When the words | tāḻ | and | kōl | join the appearance of | akku | in between is considered proper.
 
-### + | tamiḻ |
+### — + | tamil |
 
 ## 386
 
-The word | tamiḻ | too behaves in the same manner.
+The word | tamil | too behaves in the same manner.
 
-### + tree
+### — + tree
 
 ## 387
 
 When the word | kumiḻ | shows a tree it behaves exactly like | pīr |.
 
-### Alternative
+### —alternative
 
-## 388
+## 381 [printed; sequence indicates 388]
 
 For the word | pāḻ | there is alternation with the soft consonants.
 
-### Numeral
+### —numeral
 
 ## 389
 
 The word | ēḻ | behaves as it does with case markers.
 
-### Measures
+### —measures......
 
 ## 390
 
-It is in accordance with learned opinion that when measures, weights and numbers follow this, the long initial sound is shortened and | u | is inserted.
+It is in accordance with learned opinion that when measures, weights and numbes follow this, the long initial sound is shortened and | u | is inserted.
 
-### Ten
+### —ten
 
 ## 391
 
 With the word | pattu | the consonant in the middle is dropped and there appears the dotted | aytam |.
 
-### Thousand
+### —thousand
 
 ## 392
 
