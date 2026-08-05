@@ -14,42 +14,62 @@ translation_of: page-231
 
 # Tolkāppiyam in English
 
-## The plural — 179
+## The plural
 
-All the nouns which indicate the plural may go with the non-personal singular, non-personal plural and personal class singular.
+### 179
 
-## The singular — 180
+All the nouns which indicate the plural may go with the non-personal singular, non—personal plural and personal class singular.
+
+## The singular
+
+### 180
 
 All the nouns which indicate the singular may go with the non-personal class singular and personal class singular.
 
-## Plural — 181
+## Plural
+
+### 181
 
 The word `| tām |` goes with the plural.
 
-## Singular — 182
+## Singular
+
+### 182
 
 The word `| tāṉ |` goes with the singular.
 
-## Plural `| ellām |` — 183
+## Plural `| ellām |`
+
+### 183
 
 The naming word `| ellām |` goes with the plural.
 
-## `| ellām |` — 184
+## `| ellām |`
+
+### 184
 
 This will not occur in the personal class except in the first person plural.
 
-## Two subjects — 185
+## Two subjects
+
+### 185
 
 `| nīyir |` and `| nī |` do not show the gender and they belong to both.
 
-## One of them — 186
+## One of them
+
+### 186
 
 Of these the noun `| nī |` belongs to the singular.
 
-## The other — 187
+## The other
+
+### 187
 
 The other belongs to the plural.
 
-## `| oruvar |` — 188
+## `| oruvar |`
+
+### 188
 
 The naming word `| oruvar |` seems to belong to both the genders.
