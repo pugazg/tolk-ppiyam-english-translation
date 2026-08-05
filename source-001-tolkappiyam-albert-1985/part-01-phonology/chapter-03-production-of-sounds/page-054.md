@@ -14,7 +14,7 @@ translation_of: page-053
 
 # 3. A Chapter on the Production of Sounds
 
-## Consonants | k | and | ṅ |
+## Consonants; | k | and | ṅ |
 
 ### 89
 
