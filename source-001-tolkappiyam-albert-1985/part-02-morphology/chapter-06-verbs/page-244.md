@@ -15,8 +15,6 @@ continuation_from: page-242
 
 # Tolkāppiyam in English
 
-## 217 (continued)
-
 negation and in the words `| vēṟu |`, `| ceymaṉa |`, `| ceyyum |` and `| ceyta |` belong to both the classes differing from the normal usage, expressing the two different senses.
 
 ## Singular endings — 218
@@ -43,6 +41,8 @@ The word `| ceyyum |` showing the present will not occur with the following thre
 
 The nine premodifiers of verbal phrases are `| ceytu |`, `| ceyyū |`, `| ceypu |`, `| ceyta a |`, `| ceyyiyar |`, `| ceyyiya |`, `| ceyin |`, `| ceya |` and `| ceyaṟku |`.
 
-## Other—— — 224
+## Other——
+
+### 224
 
 Words such as `| piṉ |`, `| muṉ |`, `| kāl |`, `| kaṭai |`, `| vaḻi |` and `| iṭattu |` which indicate time do the same function.
