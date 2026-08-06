@@ -10,17 +10,18 @@ language: English
 status: verified
 sutras: 269-276
 translation_of: page-259
+numbering_note: scan prints "2 9." where the sequence indicates 269
 ---
 
 # Tolkāppiyam in English
 
-## With the second person — 269
+## With the second person — 2 9 [printed; sequence indicates 269]
 
 `| miyā |`, `| ika |`, `| mō |`, `| mati |`, `| ikum |` and `| tiṉ |` are the six empty morphs.
 
 ## Two of them — 270
 
-Scholars tell us that among these `| ikum |` and `| tiṉ |` may appear rightly with the other persons also.
+Scholars tell us that among these `| ikum |` and `| tiṉ |` may appear rightiy with the other persons also.
 
 ## `| amma |` — 271
 
@@ -34,11 +35,13 @@ Scholars tell us that among these `| ikum |` and `| tiṉ |` may appear rightly 
 
 `| pōl |` when it is not used in comparisons does the same.
 
-## Other empty morphs — 274
+## Other emphy morphs — 274
 
 The seven morphemes `| yā |`, `| kā |`, `| piṟa |`, `| piṟakku |`, `| arō |`, `| pō |`, `| mātu |` are empty morphs.
 
-## —— — 275
+## ——
+
+### 275
 
 The three `| āka |`, `| ākal |` and `| eṉpatu |` are non-separable⁷⁶ empty morphs.
 
