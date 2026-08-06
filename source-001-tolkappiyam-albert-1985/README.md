@@ -35,7 +35,7 @@
 - Errata and final publications page: `back-matter/page-NNN.md`
 - Maintained contents, index and chapter navigation: `contents-index-chapters/`
 
-See [`manifest.md`](manifest.md) for the page manifest, [`FINAL-AUDIT.md`](FINAL-AUDIT.md) for the structural extraction audit, [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for the ongoing scan-to-text audit and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
+See [`manifest.md`](manifest.md) for the page manifest, [`FINAL-AUDIT.md`](FINAL-AUDIT.md) for the structural extraction audit, [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for the completed scan-to-text audit and [`contents-index-chapters/`](contents-index-chapters/) for structural navigation.
 
 ## Structural completion
 
@@ -51,12 +51,13 @@ All **18 chapters**, every supporting section and every physical page of the sou
 
 ## Textual-fidelity audit
 
-A separate second-pass visual audit is underway to test every Markdown record character by character against the scan.
+The separate second-pass visual audit of every Markdown record against the scan is complete.
 
-- Audited: **PDF pages 1–288**
-- Progress: **288 of 316 pages (91.14%)**
-- Corrected or expanded across Iterations 1–13: **227 page records**
-- Audited pages requiring no change: **61**
-- Remaining for this second-pass audit: **28 pages**
+- Audited: **PDF pages 1–316**
+- Progress: **316 of 316 pages (100.00%)**
+- Corrected or expanded across Iterations 1–14: **242 page records**
+- Audited pages requiring no change: **74**
+- Explicitly unresolved source locations: **2**
+- Remaining for this second-pass audit: **0 pages**
 
-See [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for cumulative status and iteration reports.
+See [`TEXTUAL-FIDELITY-AUDIT.md`](TEXTUAL-FIDELITY-AUDIT.md) for the cumulative status and all iteration reports.
