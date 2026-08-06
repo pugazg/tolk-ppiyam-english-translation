@@ -11,8 +11,6 @@ status: verified
 notes: 80
 ---
 
-# Notes
-
 ## 80
 
 It requires some explanation to show why the Tamil word `| eccam |` is translated here as concepts of extended structures. Many commentators simplify the problem and say that this word indicates that the Grammarian puts into this chapter whatever it was not convenient to put into the previous eight chapters. The word `| eccam |` of course means whatever is left over. But we must bear in mind that ancient Grammars delighted in quibbles, disquisitions and words with multiple meanings. This is not absent in Tolkāppiyam though in a translation we do not have many opportunities to point out these. This is perhaps the only occasion where the translation required the explanation of this aspect.
