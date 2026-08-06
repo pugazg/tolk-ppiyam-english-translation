@@ -18,15 +18,19 @@ translation_of: page-245
 
 Of these the first three⁷² get completed by the verb that agrees with their subject.
 
-## —— + additional modifiers — 226
+## —— + additional modifiers
 
-Scholars tell us that in these three morphemes even when an additional modifier appears in the head word the verbs agree with the subject and not with the modifier.
+### 226
+
+Scholars tell us that in these three mo rphemes even when an additional modifier appears in the head word the verbs agree with the subject and not with the modifier.
 
 ## The others — 227
 
 The other premodifiers may get completed by the verb in agreement with the subject or with those that come in addition.
 
-## A series—— — 228
+## A series——
+
+### 228
 
 The premodifier in the verbal phrase when it is not complete because of a series of them, gets complete with the final one.
 
@@ -34,7 +38,9 @@ The premodifier in the verbal phrase when it is not complete because of a series
 
 The premodifiers in noun phrases `| ceyyum |` and `| ceyta |` go with words that indicate the land, the object, the time, the instrument, and agent and the action.
 
-## `| ceyyum |` — 230
+## `| ceyyum |`
+
+### 230
 
 In these occurrences the word `| ceyyum |` will go with the three endings⁷³ that were said not to be permitted earlier.
 
