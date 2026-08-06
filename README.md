@@ -2,6 +2,12 @@
 
 A page-by-page archival transcription of **Dr. D. Albert's _Tolkāppiyam: Phonology & Morphology (An English Translation)_**, published by the International Institute of Tamil Studies in July 1985.
 
+## Reusable workflow
+
+The completed process from this repository has been documented as a reusable standard for future PDF-book projects:
+
+- [`BOOK_TRANSCRIPTION_GUIDELINES.md`](BOOK_TRANSCRIPTION_GUIDELINES.md) — source intake, rights documentation, page-level Markdown structure, transcription rules, manifests, Git discipline, structural audits, visual fidelity audits and final completion criteria.
+
 ## Source
 
 - Source PDF: `TVA_BOK_0013548_Tolkāppiyam.pdf`
