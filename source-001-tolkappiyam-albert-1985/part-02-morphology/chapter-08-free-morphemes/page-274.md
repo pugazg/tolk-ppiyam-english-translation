@@ -14,50 +14,74 @@ translation_of: page-273
 
 # Tolkāppiyam in English
 
-## Reduce — 324
+## Reduce
+
+### 324
 
 The four `| ōytal |`, `| āytal |`, `| niḻattal |`, `| cāay |` mean getting reduced.
 
-## Loneliness — 325
+## Loneliness
+
+### 325
 
 `| pulampu |` means loneliness.
 
-## Fulness — 326
+## Fulness
+
+### 326
 
 `| tuvaṉṟu |` means fulness.
 
-## Maturity — 327
+## Maturity
+
+### 327
 
 `| murañcal |` means maturity.
 
-## Desire — 328
+## Desire
+
+### 328
 
 `| vemmai |` means desire.
 
-## Beauty — 329
+## Beauty
+
+### 329
 
 `| poṟpu |` means beauty.
 
-## Small — 330
+## Small
+
+### 330
 
 `| vaṟitu |` means small.
 
-## Remember, Determine — 331
+## Remember, Determine
+
+### 331
 
 `| ēṟṟam |` means remembering and determination.
 
-## Desire — 332
+## Desire
+
+### 332
 
 `| piṇai |` and `| pēṇ |` mean desire.
 
-## Lost, Stout — 333
+## Lost, Stout
+
+### 333
 
 `| paṇai |` means being lost and becoming stout.
 
-## Think, Move — 334
+## Think, Move
+
+### 334
 
 `| paṭar |` means thinking and moving away.
 
-## Disease | Suffering — 335
+## Disease | Suffering
+
+### 335
 
 `| paiyuḷ |` and `| ciṟumai |` mean disease.
