@@ -18,11 +18,15 @@ translation_of: page-239
 
 The four `| aṉ |`, `| āṉ |`, `| aḷ |` and `| āḷ |` are third person singular morphemes.
 
-## ——plural — 203
+## ——plural
+
+### 203
 
 The three `| ar |`, `| ār |`, and `| pa |` are the third person plural morphemes.
 
-## `| mār |` — 204
+## `| mār |`
+
+### 204
 
 The word with the morpheme `| mār |` takes the personal class plural verbal ending.
 
@@ -32,17 +36,23 @@ These twenty three⁵⁴ already mentioned belong to the personal class in singu
 
 ## The defective — 206
 
-Of these the first personal plural may become defective when used in enumeration.
+Of these-the first personal plural may become defective when used in enumeration.
 
-## `| yār |` — 207
+## `| yār |`
+
+### 207
 
 The word `| yār |` used for asking questions in that class⁵⁵ goes with the three genders⁵⁶.
 
-## `| ā |` → `| ō |` — 208
+## `| ā |` → `| ō |`
+
+### 208
 
 The `| ā |` in these three⁵⁷ endings that show the genders may change to `| ō |` in poetry.
 
-## `| āy |` → `| ōy |` — 209
+## `| āy |` → `| ōy |`
+
+### 209
 
 The morpheme `| āy |` behaves in the same manner.
 
