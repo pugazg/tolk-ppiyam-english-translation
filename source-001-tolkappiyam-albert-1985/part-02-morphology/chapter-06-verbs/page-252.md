@@ -12,7 +12,7 @@ notes: 67-75
 chapter_status: complete
 ---
 
-# Notes
+# Tolkāppiyam in English
 
 ## 67
 
@@ -20,11 +20,11 @@ Words which are equivalents of that is dark, `| kariyatu |`.
 
 ## 68
 
-`| nīḷvālatu |`, that has a long tail.
+`| nīḷvālatu |` , that has a long tail.
 
 ## 69
 
-`| mayil | | opatu |`, It is like the peacock.
+`| mayil | | opatu |` , It is like the peacock.
 
 ## 70
 
@@ -36,7 +36,7 @@ The seven excepting the first mentioned in verse 220, singled out in 231.
 
 ## 72
 
-`| ceytu |`, `| ceyyū |`, `| ceypu |` mentioned in verse 226.
+`| ceytu |` , `| ceyyū |` , `| ceypu |` mentioned in verse 226.
 
 ## 73
 
@@ -49,3 +49,5 @@ The Tamil phrase used in this verse is interpreted to mean: where the action can
 ## 75
 
 The direct agent is the doer of the action. The indirect agent is the one who wishes the action to be done.
+
+T—15
