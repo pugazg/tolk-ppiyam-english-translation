@@ -10,7 +10,7 @@ language: English
 status: verified
 sutras: 211-217
 translation_of: page-241
-continuation: page-244
+continues_on: page-244
 ---
 
 # Tolkāppiyam in English
@@ -23,11 +23,15 @@ These formations showing the singular and the plural gender where the time is im
 
 The three endings `| a |`, `| ā |` and `| va |` form the plural in the non-personal class.
 
-## ——singular — 213
+## ——singular
+
+### 213
 
 `| t |`, `| ṟ |` and `| ṭ |` taking the shorter `| u |` give the third person singular endings.
 
-## —— — 214
+## ——
+
+### 214
 
 These six showing singular and plural genders belong to the non personal class.
 
@@ -37,7 +41,7 @@ It is said that the interrogative `| evaṉ |` belongs to the two genders in tha
 
 ## Implied time — 216
 
-Time is implied in the following ten formations with the morphemes `| iṉṟu |`, `| ila |`, `| uṭaiya |`, `| aṉṟu |`, `| uṭaitu |`, `| alla |`, verbs where the adjective governs its formation,⁶⁷ with `| uḷa |`, with the verb where the naming word of the part precedes that of the whole in the adjectival formation⁶⁸ and in comparisons⁶⁹. Verbs with implied time showing singular and plural genders in the non-personal class are not different from what are mentioned earlier.⁷⁰
+Time is implied in the following ten formations with the morphemes `| iṉṟu |`, `| ila |`, `| uṭaia |`, `| aṉṟu |`, `| uṭaitu |`, `| alla |`, verbs where the adjective governs its formation,⁶⁷ with `| uḷa |`, with the verb where the naming word of the part precedes that of the whole in the adjectival formation⁶⁸ and in comparisons⁶⁹. Verbs with implied time showing singular and plural genders in the non-personal class are not different from what are mentioned earlier.⁷⁰
 
 ## Common to both the classes — 217
 
