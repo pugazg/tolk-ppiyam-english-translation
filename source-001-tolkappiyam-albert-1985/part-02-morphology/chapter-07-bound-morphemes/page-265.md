@@ -11,8 +11,6 @@ status: verified
 notes: 76-78
 ---
 
-# Notes
-
 ## 76
 
 This means they occur as doublets.
