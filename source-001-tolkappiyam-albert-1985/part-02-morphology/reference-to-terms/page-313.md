@@ -21,7 +21,7 @@ Translation equivalents of some interesting terms are listed here for easy refer
 | 3 | measure |
 | 10 | quantity |
 | 17 | vocalized |
-| 22 | cluster |
+| 22 | -cluster |
 | 37 | morphophonemic |
 | 40 | onomatopoeic |
 | 76 | active, passive |
