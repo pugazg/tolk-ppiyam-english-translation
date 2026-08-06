@@ -14,34 +14,50 @@ translation_of: page-255
 
 # Tolkāppiyam in English
 
-## `| um |` — 250
+## `| um |`
 
-The morpheme `| um |` goes with these eight; implied incompleteness, greatness, doubt, negation, completeness, enumeration, indication of known alternatives and becoming something.
+### 250
 
-## `| ō |` — 251
+The morpheme `| um |` goes with these eight; impl'ied incompleteness, greatness, doubt, negation, completeness, enumeration, indication of known alternatives and becoming something.
 
-The morpheme `| ō |` goes with the six expressions of doubt, interrogation, negation, implication, explicitness and distinction.
+## `| ō |`
 
-## `| ē |` — 252
+### 251
+
+The morpheme `| ō |` goes with the si x expressions of doubt, interrogation, negation, implication, explicitness and distinction.
+
+## `| ē |`
+
+### 252
 
 `| ē |` goes with the five expressions of clarity of choice, interrogation, doubt, enumeration and the final euphonic phoneme.
 
-## `| ena |` — 253
+## `| ena |`
+
+### 253
 
 The morpheme `| ena |` goes with the six expressions of verbs, intention, indications of sounds, quality, enumeration and names.
 
-## `| eṉṟu |` — 254
+## `| eṉṟu |`
+
+### 254
 
 The morpheme `| eṉṟu |` does the same.
 
-## `| til |` — 255
+## `| til |`
+
+### 255
 
 `| til |` with the implied expression of desire occurs with the first person.
 
-## `| ē |` and `| ō |` — 256
+## `| ē |` and `| ō |`
+
+### 256
 
 `| ē |` expressing the clarity of choice and `| ō |` expressing distinction will elongate for musical effect.
 
-## `| maṟṟu |` — 257
+## `| maṟṟu |`
+
+### 257
 
 Scholars tell us that the morpheme `| maṟṟu |` behaves in two ways; conjunctor of antonyms and euphonic empty morph.
