@@ -18,13 +18,17 @@ translation_of: page-263
 
 Wherever these endings of numerals and naming-words where such endings are not added and enumerations with `| ē |` occur,they will not occur except in a series.
 
-## `| um |` — 286
+## `| um |`
+
+### 286
 
 When `| um |` appears in enumeration it is not forbidden to make the case marker disappear.
 
-## `| um |` —— `| untu |` — 287
+## `| um |` —— `| untu |`
 
-There are places where the `| um |` becomes `| untu |`.
+### 287
+
+There are places where the `| um |` becomes `| untu |` .
 
 ## With verbs — 288
 
