@@ -11,8 +11,6 @@ status: verified
 notes: 53-66
 ---
 
-# Notes
-
 ## 53
 
 The concept of implied time is dealt with by the Grammarian because throughout this grammar we find an effort to be always explicit as all Linguistics should do.
@@ -67,7 +65,7 @@ The Tamil phrase `| oppāṉ |` shows time only in an implied way and not explic
 
 ## 65
 
-`| vaṉmai |`, `| villar |`.
+`| vaṉmai |`, `| vllar |`.
 
 ## 66
 
