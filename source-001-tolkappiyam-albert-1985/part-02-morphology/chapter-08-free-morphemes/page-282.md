@@ -14,46 +14,68 @@ translation_of: page-281
 
 # Tolkāppiyam in English
 
-## Plenty, Beauty — 372
+## Plenty, Beauty
+
+### 372
 
 It means plenty and beauty also.
 
-## New — 373
+## New
+
+### 373
 
 The morpheme `| yāṇar |` gives the sense of newness.
 
-## Joy — 374
+## Joy
+
+### 374
 
 `| amartal |` means the joy of companionship.
 
-## Grace — 375
+## Grace
+
+### 375
 
 `| yāṇ |` means gracefulness.
 
-## Worship — 376
+## Worship
+
+### 376
 
 `| paravu |` and `| paḻiccu |` mean worship.
 
-## Ten meanings. — 377
+## Ten meanings.
+
+### 377
 
 The morpheme `| kaṭi |` means the following ten exclusion, sharpness, protection, newness, fastness, light, excess, excellence, fear and vow.
 
-## Doubt, Pungency — 378
+## Doubt, Pungency
+
+### 378
 
 It may also mean doubt and pungency.
 
-## Wonder — 379
+## Wonder
+
+### 379
 
 `| ai |` expresses the sense of wonder.
 
-## Dislike — 380
+## Dislike
+
+### 380
 
 `| muṉaivu |` means dislike.
 
-## Sharp — 381
+## Sharp
+
+### 381
 
 `| vai |` means sharpness.
 
-## Strength — 382
+## Strength
+
+### 382
 
 `| eṟuḻ |` means strength.
