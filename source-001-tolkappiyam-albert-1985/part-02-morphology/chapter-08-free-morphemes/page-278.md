@@ -14,50 +14,74 @@ translation_of: page-277
 
 # Tolkāppiyam in English
 
-## Collection — 348
+## Collection
+
+### 348
 
 `| karuvi |` means collection.
 
-## Fulness — 349
+## Fulness
+
+### 349
 
 `| kamam |` means fulness.
 
-## Beautiful — 350
+## Beautiful
+
+### 350
 
 `| ari |` means the beautiful.
 
-## Embrace — 351
+## Embrace
+
+### 351
 
 `| kavavu |` means embracing.
 
-## Onomatopoeia — 352
+## Onomatopoeia
+
+### 352
 
 Scholars tell us that `| tuvaittal |`, `| cilaittal |`, `| iyampal |` and `| iraṅkal |` mean what these sounds suggest.
 
-## Repentance — 353
+## Repentance
+
+### 353
 
 Among them `| iraṅkal |` will also mean repentance.
 
-## Poverty — 354
+## Poverty
+
+### 354
 
 The two `| ilampāṭu |` and `| oṟkam |` mean poverty.
 
-## Spread — 355
+## Spread
+
+### 355
 
 `| ñemirtal |` and `| pāytal |` mean spreading.
 
-## Desire — 356
+## Desire
+
+### 356
 
 `| kavarvu |` means desire.
 
-## Gather — 357
+## Gather
+
+### 357
 
 `| cēr |` means gathering.
 
-## Broad — 358
+## Broad
+
+### 358
 
 `| viyal |` means broad.
 
-## Fear — 359
+## Fear
+
+### 359
 
 The three that are `| pēm |`, `| nām |` and `| urum |` give the sense of fear.
