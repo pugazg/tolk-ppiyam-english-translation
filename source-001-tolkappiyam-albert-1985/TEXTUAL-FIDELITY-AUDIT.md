@@ -3,16 +3,16 @@
 Source: `TVA_BOK_0013548_Tolkāppiyam.pdf`  
 Total physical PDF pages: **316**
 
-This tracker records the second-pass visual comparison of every Markdown page against the corresponding source scan. It is separate from the structural extraction audit: structural completeness is already confirmed, while this audit tests character-level and source-faithful transcription.
+This tracker records the second-pass visual comparison of every Markdown page against the corresponding source scan. It is separate from the structural extraction audit: structural completeness was already confirmed, while this audit tests character-level and source-faithful transcription.
 
 ## Current status
 
-- Audited physical PDF pages: **1–288**
-- Audited count: **288 of 316**
-- Progress: **91.14%**
-- Remaining: **28 pages**
-- Corrected or expanded page records: **227**
-- Audited pages requiring no change: **61**
+- Audited physical PDF pages: **1–316**
+- Audited count: **316 of 316**
+- Progress: **100.00%**
+- Remaining: **0 pages**
+- Corrected or expanded page records: **242**
+- Audited pages requiring no change: **74**
 - Explicitly unresolved source locations: **2**
 
 ## Iterations
@@ -32,11 +32,10 @@ This tracker records the second-pass visual comparison of every Markdown page ag
 | 11 | 203–236 | Part II Chapters 3–5 | Pass with corrections | 33 | 0 | `a5f341b715ffbd6c63f3a1384f32fbf88c6785ad` | [Iteration 11](textual-fidelity-audit/iteration-11-pages-203-236.md) |
 | 12 | 237–266 | Part II Chapters 6–7 | Pass with corrections | 23 | 0 | `e8210283a0801ff621339ef56cb39e2b33a20138` | [Iteration 12](textual-fidelity-audit/iteration-12-pages-237-266.md) |
 | 13 | 267–288 | Part II Chapter 8 — Free Morphemes | Pass with corrections | 15 | 0 | `ba2b36555f5b3793b97f513e6db701355e8231a8` | [Iteration 13](textual-fidelity-audit/iteration-13-pages-267-288.md) |
+| 14 | 289–316 | Part II Chapter 9 through final back matter | Pass with corrections; audit complete | 15 | 0 | `33d426a562a1739945728676a41bd32633429fb7` | [Iteration 14](textual-fidelity-audit/iteration-14-pages-289-316.md) |
 
-## Next audit unit
+## Completion
 
-**Part II Chapter 9 — எச்சவியல் / A Chapter on the Concepts of Extended Structures**, PDF pages **289–308**.
+The complete **316-page source volume** has now been visually compared against the repository page by page. Every physical page has a Markdown record, every identified mismatch has been committed, and the two genuinely unresolved source locations remain explicitly documented rather than guessed.
 
-## Completion rule
-
-The volume will be considered textually audited only after every physical page has been visually compared, every correction has been committed, and every genuinely unreadable location has been explicitly recorded without guessing.
+The second-pass textual-fidelity audit is **complete**.
