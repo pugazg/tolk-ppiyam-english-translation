@@ -7,12 +7,12 @@ This tracker records the second-pass visual comparison of every Markdown page ag
 
 ## Current status
 
-- Audited physical PDF pages: **1–236**
-- Audited count: **236 of 316**
-- Progress: **74.68%**
-- Remaining: **80 pages**
-- Corrected or expanded page records: **189**
-- Audited pages requiring no change: **47**
+- Audited physical PDF pages: **1–266**
+- Audited count: **266 of 316**
+- Progress: **84.18%**
+- Remaining: **50 pages**
+- Corrected or expanded page records: **212**
+- Audited pages requiring no change: **54**
 - Explicitly unresolved source locations: **2**
 
 ## Iterations
@@ -30,10 +30,11 @@ This tracker records the second-pass visual comparison of every Markdown page ag
 | 9 | 168–176 | Part I Research Topics, Index, blank page and Part II title page | Pass with corrections | 6 | 0 | `2cd0c628a736680fef7df35da729b051bf83950e` | [Iteration 09](textual-fidelity-audit/iteration-09-pages-168-176.md) |
 | 10 | 177–202 | Part II Chapters 1–2 | Pass with corrections | 19 | 0 | `e4d986755856cff89af3cd53e0c6a624004bfa17` | [Iteration 10](textual-fidelity-audit/iteration-10-pages-177-202.md) |
 | 11 | 203–236 | Part II Chapters 3–5 | Pass with corrections | 33 | 0 | `a5f341b715ffbd6c63f3a1384f32fbf88c6785ad` | [Iteration 11](textual-fidelity-audit/iteration-11-pages-203-236.md) |
+| 12 | 237–266 | Part II Chapters 6–7 | Pass with corrections | 23 | 0 | `e8210283a0801ff621339ef56cb39e2b33a20138` | [Iteration 12](textual-fidelity-audit/iteration-12-pages-237-266.md) |
 
 ## Next audit unit
 
-**Part II Chapter 6 — வினையியல் / A Chapter on the Verbs**, PDF pages **237–252**.
+**Part II Chapter 8 — உரியியல் / A Chapter on the Free Morphemes**, PDF pages **267–288**.
 
 ## Completion rule
 
