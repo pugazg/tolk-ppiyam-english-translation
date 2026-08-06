@@ -14,54 +14,80 @@ translation_of: page-269
 
 # Tolkāppiyam in English
 
-## Rising, joy — 299
+## Rising, joy.
+
+### 299
 
 `| ukappu |` means rising `| uvappu |` means joy.
 
-## Usefulness — 300
+## Usefulness
+
+### 300
 
 `| payappu |` means usefulness.
 
-## Colour — 301
+## Colour
+
+### 301
 
 `| pacappu |` means colour.
 
-## Join — 302
+## Join
+
+### 302
 
 `| iyaipu |` means joining.
 
-## Music — 303
+## Music
+
+### 303
 
 `| icaippu |` means music.
 
-## Unsteadiness — 304
+## Unsteadiness
 
-`| alamaral |` and `| terumaral |`, the two mean unsteadiness.
+### 304
 
-## Young — 305
+`| alamaral |` and `| terumaral |` , the two mean unsteadiness.
+
+## Young
+
+### 305
 
 `| maḻa |` and `| kuḻa |` mean the young.
 
-## Fame — 306
+## Fame
+
+### 306
 
 `| cīrtti |` means great fame.
 
-## Nature — 307
+## Nature
+
+### 307
 
 `| mālai |` means the nature.
 
-## Superiority — 308
+## Superiority
+
+### 308
 
 `| kūrppu |` and `| kaḻivu |` mean superiority.
 
-## Fast — 309
+## Fast
+
+### 309
 
 `| kataḻvu |` and `| tuṇaivu |` mean being fast.
 
-## Trembling — 310
+## Trembling
+
+### 310
 
 `| atirvu |` and `| vitirppu |` mean trembling.
 
-## Straight-forwardness — 311
+## Straight-forwardness
 
-The three `| vārtal |`, `| pōkal |`, `| oḻukal |` mean straight-forwardness and length.
+### 311
+
+The three `| vārtal |` , `| pōkal |` , `| oḻukal |` mean straight-forwardness and length.
