@@ -28,16 +28,20 @@ The three-present, past and future indications of time and the implied one⁵³ 
 
 ## Three types of verbs — 198
 
-With their implied and explicit indications of time all the verbs appear in the three forms viz., personal class non-personal class and common class.
+With their implied and explicit indications of time all the verbs appear in the three forms viz , personal class non-personal class and common class.
 
 ## First person plural verb ending — 199
 
-They are the morphemes `| am |`, `| ām |`, `| em |` and `| ēm |` and the four where `| um |` goes with `| k |`, `| ṭ |`, `| t |` and `| ṟ |` expressing the plural in the first person.
+They are the morphemes `| am |`, `| ām |`, `| em |` ; and `| ēm |` and the four where `| um |` goes with `| k |`, `| ṭ |`, `| t |` and `| ṟ |` expressing the plural in the first person.
 
-## ——singular—— — 200
+## ——singular——
+
+### 200
 
 The four `| k |`, `| ṭ |`, `| t |` and `| ṟ |` with the shorter `| u |`, `| eṉ |`, `| ēṉ |` and `| al |` and thus the seven are the morphemes that express the first person singular.
 
-## `| ceyku |` — 201
+## `| ceyku |`
+
+### 201
 
 Scholars tell us that among these the word `| ceyku |` does not deviate from this, though it takes a verb for its completion.
