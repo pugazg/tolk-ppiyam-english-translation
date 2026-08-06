@@ -46,7 +46,9 @@ The morpheme `| tañcam |` specifies easiness.
 
 The morpheme `| ār |` following a generic name requires a personal class plural ending in the predicate.
 
-## —— — 266
+## ——
+
+### 266
 
 It can also occur as a euphonic empty morph.
 
