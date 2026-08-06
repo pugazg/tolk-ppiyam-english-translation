@@ -20,7 +20,7 @@ Of these, scholars tell us that in the modifier `| ceyyum |` of noun phrases, th
 
 ## Past and future — 234
 
-`| ceytu |`, the premodifier of the past may go with the future.
+`| ceytu |` , the premodifier of the past may go with the future.
 
 ## The universal present — 235
 
