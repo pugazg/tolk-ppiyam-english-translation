@@ -14,50 +14,74 @@ translation_of: page-275
 
 # Tolkāppiyam in English
 
-## Ignorance — 336
+## Ignorance
+
+### 336
 
 `| eyyāmai |` means ignorance.
 
-## Big — 337
+## Big
+
+### 337
 
 `| naṉṟu |` means big.
 
-## Strength, Sorrow — 338
+## Strength, Sorrow
+
+### 338
 
 `| tā |` means strength and sorrow.
 
-## Receive — 339
+## Receive
+
+### 339
 
 `| tevvu |` means receiving.
 
-## Enmity — 340
+## Enmity
+
+### 340
 
 `| tevvu |` means enmity.
 
-## Density — 341
+## Density
+
+### 341
 
 `| viṟappu |`, `| uṟappu |` and `| veṟuppu |` mean density.
 
-## Dread — 342
+## Dread
+
+### 342
 
 Among them `| viṟappu |` means, also, dread.
 
-## Noise — 343
+## Noise
+
+### 343
 
 `| kampalai |`, `| cummai |`, `| kali |`, `| aḻuṅkal |` mean noise.
 
-## Compassion — 344
+## Compassion
+
+### 344
 
 Among them `| aḻuṅkal |` means also compassion and loss.
 
-## Confusion — 345
+## Confusion
+
+### 345
 
 `| kaḻum |` means a state of confusion.
 
-## Fertile — 346
+## Fertile
+
+### 346
 
 `| ceḻumai |` means being fertile and fat.
 
-## Fame, distress. — 347
+## Fame, distress.
+
+### 347
 
 `| viḻumam |` means fame, honour and distress.
