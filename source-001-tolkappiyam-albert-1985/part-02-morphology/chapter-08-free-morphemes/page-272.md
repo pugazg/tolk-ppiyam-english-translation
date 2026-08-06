@@ -14,50 +14,74 @@ translation_of: page-271
 
 # Tolkāppiyam in English
 
-## Separation — 312
+## Separation
+
+### 312
 
 `| tīrtal |` and `| tīrttal |` mean separation.
 
-## Games — 313
+## Games
+
+### 313
 
 The two `| keṭavaral |` and `| paṇṇai |` mean games.
 
-## Big — 314
+## Big
 
-`| taṭa |`, `| kaya |` and `| naḷi |` mean bigness.
+### 314
 
-## Curve — 315
+`| taṭa |` , `| kaya |` and `| naḷi |` mean bigness.
+
+## Curve
+
+### 315
 
 Among them `| taṭa |` may also mean curve.
 
-## Tenderness — 316
+## Tenderness
+
+### 316
 
 The morpheme `| kaya |` means tenderness also.
 
-## Dense — 317
+## Dense
+
+### 317
 
 The morpheme `| naḷi |` means being dense too.
 
-## Uselessness — 318
+## Uselessness
+
+### 318
 
 `| paḻutu |` means uselessness.
 
-## Softness — 319
+## Softness
+
+### 319
 
 `| cāyal |` means softness.
 
-## Complete — 320
+## Complete
+
+### 320
 
 `| muḻutu |` means being complete.
 
-## Uncertain — 321
+## Uncertain
+
+### 321
 
 `| vampu |` means being uncertain.
 
-## Love — 322
+## Love
+
+### 322
 
 `| mātar |` means love.
 
-## Desire — 323
+## Desire
 
-`| nampu |` and `| mēvu |` mean desire.
+### 323
+
+`| nampu |`' and `| mēvu |` mean desire.
